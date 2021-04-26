@@ -18,7 +18,7 @@ show_excerpts: false # set to true to show excerpts on the homepage
 
 google_analytics: G-3MVMRG3705
 
-og_image: /assets/images/portrait_web.jpg
+og_image: /assets/images/Villamizar Chaparro_NoPort.jpg
 
 header_pages:
   - bio.md
