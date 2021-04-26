@@ -1,6 +1,6 @@
 ---
 <!-- layout: default -->
-title: Skills
+title: Teaching
 ---
 
 ### Duke:
