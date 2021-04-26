@@ -4,7 +4,7 @@ title: Publications
 
 ### Articles
 
-  - Timothy R. McDade. What Can Insurance Tell Us About the Capitol Mob? *Foreign Policy*, January 21, 2021 (link [here](https://foreignpolicy.com/2021/01/21/what-can-insurance-tell-us-about-the-capitol-mob/)).
+  - Echeverry-Pineda, C and **Villamizar Chaparro, M** (2018) Representation and Political Participation of the Afro-Colombian Population: 2014 Elections and Black Legislators. In *Polarización y posconflicto las elecciones nacionales y locales en Colombia, 2014-2017*, edited by Botero, F, García Sánchez, M and Wills-Otero, L. (Link to book [here](https://uniandes.edu.co/es/publicaciones/libro-polarizacion-y-posconflicto-felipe-botero-miguel-garcia-sanchez-laura-wills-otero))
 
   - Timothy R. McDade. Who's Surprised by GameStop? Not Me! *Duke University*, February 4, 2021 (link [here](https://medium.com/dukeuniversity/whos-surprised-by-gamestop-not-me-741bbc1d92cf)).
 
