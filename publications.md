@@ -2,7 +2,7 @@
 title: Publications
 ---
 
-### Articles
+### Book Chapters
 
   - Hoyos, C and **Villamizar Chaparro, M** (2019) *The Implementation of the Peace Accords in Congress: A legislative balance during 2017*. In *Excombatientes y acuerdo de paz con las FARC-EP en Colombia*, edited by Rettberg, A, and McFee, E. (Link to book [here](https://uniandes.ipublishcentral.com/product/excombatientes-y-acuerdo-de-paz-con-las-farcep-en-colombia)).
 
