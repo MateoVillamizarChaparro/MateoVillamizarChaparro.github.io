@@ -13,7 +13,7 @@ title: Publications
   - The Effect of COVID-19 and Economic Stimulus on Food Security **with** [Timothy R. McDade](https://trmcdade.github.io/),  Mateo Villamizar Chaparro, Molly Jacobs, and Michelle Corea.*Under Review*
   - The Human Cost of Deportation **with** [Elaine K. Denny](https://faculty.ucmerced.edu/edenny/), [David A. Dow](https://sites.google.com/view/davidadow/home), [Diego Romero](https://diego-romero.com/), [Juan F. Tellez](https://juanftellez.com/), [Erik Wibbels](https://sites.duke.edu/wibbels/), and Pamela Zabala. *Under Review*
     - Covering in [Brookings](https://www.brookings.edu/blog/future-development/2021/04/02/4-things-the-biden-administration-should-pay-attention-to-with-the-border-crisis/)
-  - Blank votes and black organizations: explaining participation in the Afro-Colombian ethnic districts **with** Cristina Echeverri Pineda *Book chapter under editorial process*
+  - Blank votes and black organizations: explaining participation in the Afro-Colombian ethnic districts **with**Cristina Echeverri Pineda *Book chapter under editorial process*
   - New Interests, New Measures, Old Problems: An Analysis of the Latent Dimension(s) of Democracy **with** [Serkant Adiguzel](http://serkantadiguzel.com/), [Scott de Marchi](http://sdemarchi.weebly.com/), Jeremy Springman and [Erik Wibbels](https://sites.duke.edu/wibbels/). Working Paper
   - Precarity, and Preferences for Redistribution in Weak States: Evidence from the Philippines **with** [Dean Dulay](https://www.deandulay.com/) and [Janica Magat](https://janicamagat.com/)
   - Between locals and migrants: Politicians and vote buying in Colombia
