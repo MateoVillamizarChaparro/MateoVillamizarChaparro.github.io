@@ -3,18 +3,11 @@
 title: Skills
 ---
 
-### Technical skills:
-  - Stata
-  - R
-  - GitHub
-  - Stata
-  - LaTeX
-  - ArcGIS
-  - ODK
-  - Qualtrics
+### Duke:
+  -
 
+### University of California San Diego:
+  -
 
-### Languages:
-  - English (advanced)
-  - Spanish (native)
-  - Portuguese (intermediate)
+### Universidad de los Andes:
+  -
