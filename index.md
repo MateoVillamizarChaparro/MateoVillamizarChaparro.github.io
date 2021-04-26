@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<p align="center">
+<p align="left">
   <a href="url"><img src= "/assets/images/portrait_web.jpg" width="250" style="border-radius:50%"></a>
 </p>
 
