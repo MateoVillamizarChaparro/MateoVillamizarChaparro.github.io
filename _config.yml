@@ -1,38 +1,27 @@
 # Build settings
 theme: minima
-url: "https://trmcdade.github.io/"
-title: Timothy R. McDade
-tagline: Tim McDade is a political economist.
+url: "https://mateovillamizarchaparro.github.io/"
+title: Mateo Villamizar Chaparro
+tagline: Santiago Mateo Villamizar Chaparro is a political scientist.
 author:
-  name: Timothy R. McDade
-  email: tim.mcdade@duke.edu
+  name: Mateo Villamizar Chaparro
+  email: sv161@duke.edu
 description: > # this means to ignore newlines until "show_excerpts:"
-  Quantitative political economist at Duke University with experience in the
-  US and Chinese tech industry.
+  Political Science PhD candidate at Duke University. Ex UCSD and Universidad de los Andes.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # social_links:
-# twitter_username: trmcdade
+# twitter_username: sanmavicha
 # github_username: trmcdade
 # linkedin_username: timothymcdade
 
-google_analytics: G-EWMFHWFW20
+# google_analytics: G-EWMFHWFW20
 
 og_image: /assets/images/portrait_web.jpg
 
-# social:
-#   type: Person
-#   name: Timothy R. McDade
-#   links:
-#     - "https://twitter.com/trmcdade"
-#     - "https://www.linkedin.com/in/timothymcdade"
-#
-
 header_pages:
   - bio.md
-  # - education.md
-  # - professionalexperience.md
   - publications.md
   - skills.md
   - cv.md
@@ -41,8 +30,8 @@ header_pages:
 # layout: default
 
 plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
+  - jekyll-sitemap # construct sitemap
+  - jekyll-seo-tag # helps with optimization
   # - jekyll-feed
   # - jekyll-sass-converter
 
@@ -53,14 +42,14 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: trmcdade
-    github:  trmcdade
+    twitter: sanmavicha
+    github:  sanmavicha
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
     # instagram: jekyll
-    linkedin: timothymcdade
+    linkedin: mateo-villamizar-chaparro
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
