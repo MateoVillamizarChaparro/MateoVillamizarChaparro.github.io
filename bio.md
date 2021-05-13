@@ -9,4 +9,4 @@ I am a third-year PhD candidate in Duke University's department of Political Sci
 
 My research interests are at the intersections between representation, political participation, development economics and migration in developing countries. My dissertation proposal revolves around the strategic interaction between politicians and internal migrants in terms of political participation and public good distribution.
 
-Besides academia, I have also worked as a consultant to the Colombian Ministry of Labor and as a research assistant at [Fundación Ideas para la Paz] (http://www.ideaspaz.org/) and [Congreso Visible](https://congresovisible.uniandes.edu.co/).
+Besides academia, I have also worked as a consultant to the Colombian Ministry of Labor and as a research assistant at [Fundación Ideas para la Paz](http://www.ideaspaz.org/) and [Congreso Visible](https://congresovisible.uniandes.edu.co/).
