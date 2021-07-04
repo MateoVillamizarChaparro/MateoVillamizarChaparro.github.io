@@ -13,18 +13,21 @@ title: Publications
   - The Effect of COVID-19 and Economic Stimulus on Food Security **with** [Timothy R. McDade](https://trmcdade.github.io/),  Mateo Villamizar Chaparro, Molly Jacobs, and Michelle Corea.*Under Review*
   - The Human Cost of Deportation **with** [Elaine K. Denny](https://faculty.ucmerced.edu/edenny/), [David A. Dow](https://sites.google.com/view/davidadow/home), [Diego Romero](https://diego-romero.com/), [Juan F. Tellez](https://juanftellez.com/), [Erik Wibbels](https://sites.duke.edu/wibbels/), and Pamela Zabala. *Under Review*
     - Covering in [Brookings](https://www.brookings.edu/blog/future-development/2021/04/02/4-things-the-biden-administration-should-pay-attention-to-with-the-border-crisis/)
-  - Blank votes and black organizations: explaining participation in the Afro-Colombian ethnic districts **with** Cristina Echeverri Pineda *Book chapter under editorial process*
-  - Doves, Hawks, and Turnout: The Electoral Effects of Targeted Post-Conflict Political Violence **with** [Gabriella Levy](https://gabriellalevy.net/).
-  - New Interests, New Measures, Old Problems: An Analysis of the Latent Dimension(s) of Democracy **with** [Serkant Adiguzel](http://serkantadiguzel.com/), [Scott de Marchi](http://sdemarchi.weebly.com/), Jeremy Springman and [Erik Wibbels](https://sites.duke.edu/wibbels/). Working Paper
+  - Blank votes and black organizations: explaining participation in the Afro-Colombian ethnic districts **with** Cristina Echeverri-Pineda *Book chapter under editorial process*
+  - Doves, Hawks, and Turnout: The Electoral Effects of Targeted Post-Conflict Political Violence **with** [Gabriella Levy](https://gabriellalevy.net/). *Under Review*
+  - New Interests, New Measures, Old Problems: An Analysis of the Latent Dimension(s) of Democracy **with** [Serkant Adiguzel](http://serkantadiguzel.com/), [Scott de Marchi](http://sdemarchi.weebly.com/), Jeremy Springman and [Erik Wibbels](https://sites.duke.edu/wibbels/). *Working Paper*
   - Precarity, and Preferences for Redistribution in Weak States: Evidence from the Philippines **with** [Dean Dulay](https://www.deandulay.com/) and [Janica Magat](https://janicamagat.com/)
-  - Between locals and migrants: Politicians and vote buying in Colombia
+  - Between locals and migrants: Politicians and vote buying in Colombia *Working Paper*
+  - Forced Displacement of Migrants, Social Cohesion, and Political Engagement **with** [Elaine K. Denny](https://faculty.ucmerced.edu/edenny/), [David A. Dow](https://sites.google.com/view/davidadow/home) and [Gabriella Levy](https://gabriellalevy.net/). *Working Paper*
+  - Educational integration of forced migrants in Chile **with** Christian Blanco and [Francisco Meneses](https://fjmenese.github.io/). *Working Paper*
 
 ### Work in Progress
   - Saludos a la bandera y la conexión electoral.
-  - Forced Displacement of Migrants, Social Cohesion, and Political Engagement **with** [Elaine K. Denny](https://faculty.ucmerced.edu/edenny/), [David A. Dow](https://sites.google.com/view/davidadow/home) and [Gabriella Levy](https://gabriellalevy.net/).
-  - Educational integration of forced migrants in Chile **with** Christian Blanco and [Francisco Meneses](https://fjmenese.github.io/).
   - DDR and ex-combatant well-being **with** Javier Cardenas and [Juan F. Tellez](https://juanftellez.com/).
   - Property Rights and Deforestation in the Brazilian Amazon **with** Marcelo Gonçalves and Sofía Calderón
+  - Types of Corruption and Public Support for Corrupt Politicians: Experimental Evidence from the Philippines **with** [Dean Dulay](https://www.deandulay.com/) and [Janica Magat](https://janicamagat.com/)
+  - Size and Vulnerability: Determinants of migrants inclusion in public good distribution in Metro Manila **with** [Dean Dulay](https://www.deandulay.com/) and [Janica Magat](https://janicamagat.com/)
+  - District Selection and Racial Identity **with** Cristina Echeverri-Pineda
 
 ### Publications in other media
 
