@@ -65,7 +65,7 @@ title: Research
 
 ### Publications in other media
 
-  - Lebow, Villamizar Chaparro and Wibbels (2021, Mar. 26) New survey highlights the unique challenges that Guatemalan deportees face with economic integration back home.([Vox LACEA](http://www.lacea.org/vox/?q=blog/guatemalan_deportees_integration))
+  - Lebow, Villamizar Chaparro and Wibbels (2021, Mar. 26) New survey highlights the unique challenges that Guatemalan deportees face with economic integration back home. ([Vox LACEA](http://www.lacea.org/vox/?q=blog/guatemalan_deportees_integration))
   - Dow, Tellez, Villamizar Chaparro and Wibbels (2021, Mar. 3) Biden wants to halt deportations. Here’s what happens when migrants are sent back. (T[he Monkey Cage](https://www.washingtonpost.com/politics/2021/03/03/biden-wants-halt-deportations-heres-what-happens-when-migrants-are-sent-back/))
   - Villamizar Chaparro, M (2017, Nov 15) Rushing for Peace: The Fast-Track Mechanism in Colombia.([JIPS Blog](https://gpsjips.wixsite.com/jips/single-post/2017/11/15/Rushing-Peace-The-Fast-Track-in-Colombia))
   - Villamizar Chaparro, M (2017, Sep 8) Conducting Fieldwork in Colombia’s Squatters. ([JIPS Blog](https://www.jipsblog.com/post/conducting-fieldwork-in-colombia-s-squatters))
