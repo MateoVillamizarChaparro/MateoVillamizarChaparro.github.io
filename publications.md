@@ -27,13 +27,13 @@ title: Research
     </details>
     {::options parse_block_html="false" /}
 
-    - {::options parse_block_html="true" /}
-      <details><summary markdown="span"> Between locals and migrants: Politicians and vote buying in Colombia *Working Paper* </summary>
-      <p> <sub>
-      *Abstract:* The number of internal migrants in the developing world has been increasing as a result of climate change, violence and economic development. How do these flows of migrants affect vote-buying structures? Unlike their international counterparts, internal migrants still retain their right to vote and hence could be included in vote-buying schemes. This paper uses a formal model to analyze the decision a politician makes when allocating private benefits between migrants and natives. The model indicates that politicians will distribute private benefits to migrants when there is  a low level of political competition. Using individual and municipal quantitative data from Colombia alongside  qualitative work, I find that migrants engage less in vote-buying practices in more competitive environments. This result is most likely the effect of migrant turnout rather than issues with migrant voting registration. The results also show that vote-buying interactions between politicians and migrants are one shot leaving aside the idea of relational clientelism. Finally, political competition reduces the amount of private benefits distributed by local political machines. These findings complement the results from migrant integration into formal political settings as campaigns and candidacies.
-      </sub> </p>
-      </details>
-      {::options parse_block_html="false" /}
+  - {::options parse_block_html="true" /}
+    <details><summary markdown="span"> Between locals and migrants: Politicians and vote buying in Colombia *Working Paper* </summary>
+    <p> <sub>
+    *Abstract:* The number of internal migrants in the developing world has been increasing as a result of climate change, violence and economic development. How do these flows of migrants affect vote-buying structures? Unlike their international counterparts, internal migrants still retain their right to vote and hence could be included in vote-buying schemes. This paper uses a formal model to analyze the decision a politician makes when allocating private benefits between migrants and natives. The model indicates that politicians will distribute private benefits to migrants when there is  a low level of political competition. Using individual and municipal quantitative data from Colombia alongside  qualitative work, I find that migrants engage less in vote-buying practices in more competitive environments. This result is most likely the effect of migrant turnout rather than issues with migrant voting registration. The results also show that vote-buying interactions between politicians and migrants are one shot leaving aside the idea of relational clientelism. Finally, political competition reduces the amount of private benefits distributed by local political machines. These findings complement the results from migrant integration into formal political settings as campaigns and candidacies.
+    </sub> </p>
+    </details>
+    {::options parse_block_html="false" /}
 
 ### Work in Progress
   - Saludos a la bandera y la conexión electoral.
