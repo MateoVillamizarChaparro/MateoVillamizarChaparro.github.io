@@ -20,11 +20,13 @@ title: Research
   - Between locals and migrants: Politicians and vote buying in Colombia *Working Paper*
   - Forced Displacement of Migrants, Social Cohesion, and Political Engagement **with** [Elaine K. Denny](https://faculty.ucmerced.edu/edenny/), [David A. Dow](https://sites.google.com/view/davidadow/home) and [Gabriella Levy](https://gabriellalevy.net/). *Working Paper*
   - Educational integration of forced migrants in Chile **with** Christian Blanco and [Francisco Meneses](https://fjmenese.github.io/). *Working Paper*
-  - <details><summary>Title</summary>
-  <p>
-  Here's the abstract
-  </p>
-  </details>
+  - {::options parse_block_html="true" /}
+    <details><summary>Title</summary>
+    <p>
+    Here's the abstract
+    </p>
+    </details>
+    {::options parse_block_html="false" /}
 
 ### Work in Progress
   - Saludos a la bandera y la conexión electoral.
