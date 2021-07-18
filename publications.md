@@ -22,9 +22,9 @@ title: Research
   - Educational integration of forced migrants in Chile **with** Christian Blanco and [Francisco Meneses](https://fjmenese.github.io/). *Working Paper*
   - {::options parse_block_html="true" /}
     <details><summary markdown="span">Doves, Hawks, and Turnout: The Electoral Effects of Targeted Post-Conflict Political Violence **with** [Gabriella Levy](https://gabriellalevy.net/). *Under Review*</summary>
-    <p> <div style="text-align: right"> <sub>
+    <p>
     What are the effects of violence against civic leaders and ex-combatants on electoral outcomes in unstable contexts emerging from conflict? Such individuals have been targeted in a range of countries, including Colombia and Afghanistan. Yet, existing research on wartime and electoral violence has rarely explored the killings of these non-combatants, who are neither regular people nor powerful politicians. Thus, we examine the relationship between 1) the deaths of social leaders and demobilized ex-combatants in Colombia following the 2016 peace agreement and 2) Colombian political participation and vote choice in 2018 and 2019 elections. Methodologically, we use a series of municipal level estimations followed by individual level regressions using DANE survey data from the Colombian government. Our results indicate that social leader and ex-combatant assassinations each reduce political engagement as well as support for the hawkish candidate. We also provide suggestive evidence that the assassinations not only reduce citizens' perceptions of their personal security but also increase their belief in the value of violence and depress their satisfaction with the state of democracy in their country. These results suggest that, through their impact on electoral participation, vote choice, and public attitudes, the assassinations may have countervailing effects on national stability.
-    </div> </ sub>
+    </ sub>
     </p>
     </details>
     {::options parse_block_html="false" /}
