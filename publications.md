@@ -15,8 +15,6 @@ title: Research
     - Covering in [Brookings](https://www.brookings.edu/blog/future-development/2021/04/02/4-things-the-biden-administration-should-pay-attention-to-with-the-border-crisis/)
   - Blank votes and black organizations: explaining participation in the Afro-Colombian ethnic districts **with** Cristina Echeverri-Pineda *Book chapter under editorial process*
   - New Interests, New Measures, Old Problems: An Analysis of the Latent Dimension(s) of Democracy **with** [Serkant Adiguzel](http://serkantadiguzel.com/), [Scott de Marchi](http://sdemarchi.weebly.com/), Jeremy Springman and [Erik Wibbels](https://sites.duke.edu/wibbels/). *Working Paper*
-  - Precarity, and Preferences for Redistribution in Weak States: Evidence from the Philippines **with** [Dean Dulay](https://www.deandulay.com/) and [Janica Magat](https://janicamagat.com/) *Working Paper*
-  -
   - Forced Displacement of Migrants, Social Cohesion, and Political Engagement **with** [Elaine K. Denny](https://faculty.ucmerced.edu/edenny/), [David A. Dow](https://sites.google.com/view/davidadow/home) and [Gabriella Levy](https://gabriellalevy.net/). *Working Paper*
   - Educational integration of forced migrants in Chile **with** Christian Blanco and [Francisco Meneses](https://fjmenese.github.io/). *Working Paper*
   - {::options parse_block_html="true" /}
@@ -31,6 +29,14 @@ title: Research
     <details><summary markdown="span"> Between locals and migrants: Politicians and vote buying in Colombia *Working Paper* </summary>
     <p> <sub>
     *Abstract:* The number of internal migrants in the developing world has been increasing as a result of climate change, violence and economic development. How do these flows of migrants affect vote-buying structures? Unlike their international counterparts, internal migrants still retain their right to vote and hence could be included in vote-buying schemes. This paper uses a formal model to analyze the decision a politician makes when allocating private benefits between migrants and natives. The model indicates that politicians will distribute private benefits to migrants when there is  a low level of political competition. Using individual and municipal quantitative data from Colombia alongside  qualitative work, I find that migrants engage less in vote-buying practices in more competitive environments. This result is most likely the effect of migrant turnout rather than issues with migrant voting registration. The results also show that vote-buying interactions between politicians and migrants are one shot leaving aside the idea of relational clientelism. Finally, political competition reduces the amount of private benefits distributed by local political machines. These findings complement the results from migrant integration into formal political settings as campaigns and candidacies.
+    </sub> </p>
+    </details>
+    {::options parse_block_html="false" /}
+
+  - {::options parse_block_html="true" /}
+    <details><summary markdown="span"> Precarity, and Preferences for Redistribution in Weak States: Evidence from the Philippines **with** [Dean Dulay](https://www.deandulay.com/) and [Janica Magat](https://janicamagat.com/) *Working Paper* </summary>
+    <p> <sub>
+    *Abstract:* The positive relationship between economic precarity and increased preferences for redistribution is well-established in a large literature focusing on the Global North. However, existing scholarship finds no relationship between precarity and redistribution in the Global South; the underlying reasons remain unclear. Moreover, existing papers conflate precarity and informality, thus confounding the interpretation of these results. We conducted a priming experiment and leveraged the COVID-19 pandemic to randomly vary perceptions of economic precarity for 1,526 individuals in Metro Manila, Philippines. We show that precarity is not correlated with increased demand for redistribution, but is correlated with a preference for non-contributory social assistance spending over contributory social insurance spending. This result is driven by the formal sector, suggesting that precarity does engender different views about redistribution among individuals with exposure to different social spending policies.
     </sub> </p>
     </details>
     {::options parse_block_html="false" /}
