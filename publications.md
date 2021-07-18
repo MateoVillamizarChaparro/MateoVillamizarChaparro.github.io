@@ -15,8 +15,6 @@ title: Research
     - Covering in [Brookings](https://www.brookings.edu/blog/future-development/2021/04/02/4-things-the-biden-administration-should-pay-attention-to-with-the-border-crisis/)
   - Blank votes and black organizations: explaining participation in the Afro-Colombian ethnic districts **with** Cristina Echeverri-Pineda *Book chapter under editorial process*
   - New Interests, New Measures, Old Problems: An Analysis of the Latent Dimension(s) of Democracy **with** [Serkant Adiguzel](http://serkantadiguzel.com/), [Scott de Marchi](http://sdemarchi.weebly.com/), Jeremy Springman and [Erik Wibbels](https://sites.duke.edu/wibbels/). *Working Paper*
-  - Forced Displacement of Migrants, Social Cohesion, and Political Engagement **with** [Elaine K. Denny](https://faculty.ucmerced.edu/edenny/), [David A. Dow](https://sites.google.com/view/davidadow/home) and [Gabriella Levy](https://gabriellalevy.net/). *Working Paper*
-  - Educational integration of forced migrants in Chile **with** Christian Blanco and [Francisco Meneses](https://fjmenese.github.io/). *Working Paper*
   - {::options parse_block_html="true" /}
     <details><summary markdown="span">Doves, Hawks, and Turnout: The Electoral Effects of Targeted Post-Conflict Political Violence **with** [Gabriella Levy](https://gabriellalevy.net/). *Under Review*</summary>
     <p> <sub>
@@ -37,6 +35,22 @@ title: Research
     <details><summary markdown="span"> Precarity, and Preferences for Redistribution in Weak States: Evidence from the Philippines **with** [Dean Dulay](https://www.deandulay.com/) and [Janica Magat](https://janicamagat.com/) *Working Paper* </summary>
     <p> <sub>
     *Abstract:* The positive relationship between economic precarity and increased preferences for redistribution is well-established in a large literature focusing on the Global North. However, existing scholarship finds no relationship between precarity and redistribution in the Global South; the underlying reasons remain unclear. Moreover, existing papers conflate precarity and informality, thus confounding the interpretation of these results. We conducted a priming experiment and leveraged the COVID-19 pandemic to randomly vary perceptions of economic precarity for 1,526 individuals in Metro Manila, Philippines. We show that precarity is not correlated with increased demand for redistribution, but is correlated with a preference for non-contributory social assistance spending over contributory social insurance spending. This result is driven by the formal sector, suggesting that precarity does engender different views about redistribution among individuals with exposure to different social spending policies.
+    </sub> </p>
+    </details>
+    {::options parse_block_html="false" /}
+
+  - {::options parse_block_html="true" /}
+    <details><summary markdown="span"> Forced Displacement of Migrants, Social Cohesion, and Political Engagement **with** [Elaine K. Denny](https://faculty.ucmerced.edu/edenny/), [David A. Dow](https://sites.google.com/view/davidadow/home) and [Gabriella Levy](https://gabriellalevy.net/). *Working Paper* </summary>
+    <p> <sub>
+    *Abstract:* How does extortion experienced during the migration journey affect the civic engagement of deported migrants returned to their home country?  More broadly, how does extortion affect political participation? We know very little about either the political behavior of returnees or about how coercive economic shocks experienced during migration affect subsequent levels of political participation. Furthermore, existing literature on how victimization affects political participation is inconclusive, particularly when combined with existing work on economic insecurity. Studying deported migrants and the quasi-random experience of extortion enables us to address the endogeneity that often confounds these analyses. This approach allows us to isolate the impact of extortion on political action from potentially confounding factors related to local security or corruption. Using a novel dataset from Guatemalan migrants returned to Guatemala by the U.S. government, we find that extortion has a direct, positive relationship with multiple forms of civic action, and that, at least in this context, the mobilizing effects of economic hardship outweigh the potentially demobilizing effects of fear of crime.
+    </sub> </p>
+    </details>
+    {::options parse_block_html="false" /}
+
+  - {::options parse_block_html="true" /}
+    <details><summary markdown="span"> Educational integration of forced migrants in Chile **with** Christian Blanco and [Francisco Meneses](https://fjmenese.github.io/). *Working Paper* </summary>
+    <p> <sub>
+    *Abstract:* Education is a powerful tool for social mobility and cultural integration. However, it is one of the largest hurdles for migrants and particularly for forcefully displaced migrants given their more vulnerable condition and the lack of resources to pay for private education. In this paper we explore when do of the gaps between migrants and natives appear in Chile, a country who provides free education for newcomers in public schools. We use administrative data sets for all students in the Chilean educational system and follow students between years 2017 and 2018. Moreover, we use a research discontinuity design around the cut-off for financial aid to tertiary education to investigate if access to financial aid generates incentives for forced migrants to enroll in tertiary education. We confirm previous findings that show that migrants have lower advancement and enrollment rates when compared to natives at every school level. We find that financial aid application is a major roadblock for migrants students to access higher education. Furthermore, we find suggestive evidence that migrants in general education schools who register for financial aid tend to increase their higher educational enrollment, while this effect is not significant for migrants in the vocational track.
     </sub> </p>
     </details>
     {::options parse_block_html="false" /}
