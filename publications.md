@@ -21,7 +21,7 @@ title: Research
   - Forced Displacement of Migrants, Social Cohesion, and Political Engagement **with** [Elaine K. Denny](https://faculty.ucmerced.edu/edenny/), [David A. Dow](https://sites.google.com/view/davidadow/home) and [Gabriella Levy](https://gabriellalevy.net/). *Working Paper*
   - Educational integration of forced migrants in Chile **with** Christian Blanco and [Francisco Meneses](https://fjmenese.github.io/). *Working Paper*
   - {::options parse_block_html="true" /}
-    <details><summary>Title</summary>
+    <details><summary markdown="span">Let's see some code!</summary>
     <p>
     Here's the abstract
     </p>
