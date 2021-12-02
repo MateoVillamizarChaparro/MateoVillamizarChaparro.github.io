@@ -65,7 +65,7 @@ title: Research
 
 ### Publications in other media
 
-  - Levy, Tellez and Villamizar Chaparro (2021, Dec. 1) Five years after Colombia’s peace deal, the FARC is no longer on U.S. terrorist group lists([The Monkey Cage](https://www.washingtonpost.com/politics/2021/12/02/five-years-after-colombias-peace-deal-farc-is-no-longer-us-terror-group-lists/))
+  - Levy, Tellez and Villamizar Chaparro (2021, Dec. 1) Five years after Colombia’s peace deal, the FARC is no longer on U.S. terrorist group lists. ([The Monkey Cage](https://www.washingtonpost.com/politics/2021/12/02/five-years-after-colombias-peace-deal-farc-is-no-longer-us-terror-group-lists/))
   - Lebow, Villamizar Chaparro and Wibbels (2021, Mar. 26) New survey highlights the unique challenges that Guatemalan deportees face with economic integration back home. ([Vox LACEA](http://www.lacea.org/vox/?q=blog/guatemalan_deportees_integration))
   - Dow, Tellez, Villamizar Chaparro and Wibbels (2021, Mar. 3) Biden wants to halt deportations. Here’s what happens when migrants are sent back. ([The Monkey Cage](https://www.washingtonpost.com/politics/2021/03/03/biden-wants-halt-deportations-heres-what-happens-when-migrants-are-sent-back/))
   - Villamizar Chaparro, M (2018) Editorial: Afro-Colombian Representation. ([Boletín 12 Antioquia Visible](https://issuu.com/antvisible/docs/boleti_n_av_n.12))
