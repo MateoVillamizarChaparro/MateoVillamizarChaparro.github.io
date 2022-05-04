@@ -50,7 +50,7 @@ title: Research
     {::options parse_block_html="false" /}
 
   - {::options parse_block_html="true" /}
-    <details><summary markdown="span"> Forced Displacement of Migrants, Social Cohesion, and Political Engagement **with** [Elaine K. Denny](https://faculty.ucmerced.edu/edenny/), [David A. Dow](https://sites.google.com/view/davidadow/home) and [Gabriella Levy](https://gabriellalevy.net/). *Working Paper* </summary>
+    <details><summary markdown="span"> Forced Displacement of Migrants, Social Cohesion, and Political Engagement **with** [Elaine K. Denny](https://faculty.ucmerced.edu/edenny/), [David A. Dow](https://sites.google.com/view/davidadow/home) and [Gabriella Levy](https://gabriellalevy.net/). [*World Bank Working Paper*](http://documents1.worldbank.org/curated/en/099730304262235605/pdf/IDU02026f74207fd304e610a1160b8141ae76d28.pdf) </summary>
     <p> <sub>
     **Abstract:** How does extortion experienced during the migration journey affect the civic engagement of deported migrants returned to their home country?  More broadly, how does extortion affect political participation? We know very little about either the political behavior of returnees or about how coercive economic shocks experienced during migration affect subsequent levels of political participation. Furthermore, existing literature on how victimization affects political participation is inconclusive, particularly when combined with existing work on economic insecurity. Studying deported migrants and the quasi-random experience of extortion enables us to address the endogeneity that often confounds these analyses. This approach allows us to isolate the impact of extortion on political action from potentially confounding factors related to local security or corruption. Using a novel dataset from Guatemalan migrants returned to Guatemala by the U.S. government, we find that extortion has a direct, positive relationship with multiple forms of civic action, and that, at least in this context, the mobilizing effects of economic hardship outweigh the potentially demobilizing effects of fear of crime.
     </sub> </p>
@@ -69,7 +69,6 @@ title: Research
   - Saludos a la bandera y la conexión electoral.
   - DDR and ex-combatant well-being **with** Javier Cardenas and [Juan F. Tellez](https://juanftellez.com/).
   - Property Rights and Deforestation in the Brazilian Amazon **with** Marcelo Gonçalves and Sofía Calderón
-  - Size and Vulnerability: Determinants of migrants inclusion in public good distribution in Metro Manila **with** [Dean Dulay](https://www.deandulay.com/) and [Janica Magat](https://janicamagat.com/)
   - District Selection and Racial Identity **with** Cristina Echeverri-Pineda
 
 ### Publications in other media
