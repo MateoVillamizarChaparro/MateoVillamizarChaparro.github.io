@@ -60,7 +60,7 @@ Click on the arrows to access the abstracts.
   - Property Rights and Deforestation in the Brazilian Amazon **with** Marcelo Gonçalves and Sofía Calderón
   - District Selection and Racial Identity **with** Cristina Echeverri-Pineda
 
-  ### Policy Working papers
+### Policy Working papers
 
   - {::options parse_block_html="true" /}
     <details><summary markdown="span"> Forced Displacement of Migrants, Social Cohesion, and Political Engagement **with** [Elaine K. Denny](https://faculty.ucmerced.edu/edenny/), [David A. Dow](https://sites.google.com/view/davidadow/home) and [Gabriella Levy](https://gabriellalevy.net/). [*World Bank Working Paper 10020*](http://documents1.worldbank.org/curated/en/099730304262235605/pdf/IDU02026f74207fd304e610a1160b8141ae76d28.pdf)      </summary>
@@ -77,7 +77,7 @@ Click on the arrows to access the abstracts.
     </sub> </p>
     </details>
     {::options parse_block_html="false" /}
-    
+
 
 ### Publications in other media
 
