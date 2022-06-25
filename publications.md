@@ -2,6 +2,10 @@
 title: Research
 ---
 
+Click on the arrows to access the abstracts.
+
+**Please note**: when citing to my work please use my both last names, either as Villamizar Chaparro or Villamizar-Chaparro.
+
 ### Book Chapters
 
   - Hoyos, C and **Villamizar Chaparro, M** (2019) *The Implementation of the Peace Accords in Congress: A legislative balance during 2017*. In *Excombatientes y acuerdo de paz con las FARC-EP en Colombia*, edited by Rettberg, A, and McFee, E. (Link to book [here](https://uniandes.ipublishcentral.com/product/excombatientes-y-acuerdo-de-paz-con-las-farcep-en-colombia)).
@@ -16,7 +20,7 @@ title: Research
     - Covering in [Brookings](https://www.brookings.edu/blog/future-development/2021/04/02/4-things-the-biden-administration-should-pay-attention-to-with-the-border-crisis/), [Plaza P\'ublica](https://www.plazapublica.com.gt/content/deportados-en-guatemala-solo-hay-carencias-por-eso-quieren-volver), and [Plaza P\'ublica](https://www.plazapublica.com.gt/content/encuesta-deportados-solo-quieren-volver-huir-del-pais)
 
   - {::options parse_block_html="true" /}
-    <details><summary markdown="span"> Precarity, and Preferences for Redistribution in Weak States: Evidence from the Philippines **with** [Dean Dulay](https://www.deandulay.com/) and [Janica Magat](https://janicamagat.com/) *Under Review* </summary>
+    <details><summary markdown="span"> Precarity, and Preferences for Redistribution in Weak States: Evidence from the Philippines **with** [Dean Dulay](https://www.deandulay.com/) and [Janica Magat](https://janicamagat.com/) *Working Paper* </summary>
     <p> <sub>
     **Abstract:** The positive relationship between economic precarity and increased preferences for redistribution is well-established in a large literature focusing on the Global North. However, existing scholarship finds no relationship between precarity and redistribution in the Global South; the underlying reasons remain unclear. Moreover, existing papers conflate precarity and informality, thus confounding the interpretation of these results. We conducted a priming experiment and leveraged the COVID-19 pandemic to randomly vary perceptions of economic precarity for 1,526 individuals in Metro Manila, Philippines. We show that precarity is not correlated with increased demand for redistribution, but is correlated with a preference for non-contributory social assistance spending over contributory social insurance spending. This result is driven by the formal sector, suggesting that precarity does engender different views about redistribution among individuals with exposure to different social spending policies.
     </sub> </p>
@@ -49,8 +53,17 @@ title: Research
     </details>
     {::options parse_block_html="false" /}
 
+
+### Work in Progress
+  - Saludos a la bandera y la conexión electoral.
+  - DDR and ex-combatant well-being **with** Javier Cardenas and [Juan F. Tellez](https://juanftellez.com/).
+  - Property Rights and Deforestation in the Brazilian Amazon **with** Marcelo Gonçalves and Sofía Calderón
+  - District Selection and Racial Identity **with** Cristina Echeverri-Pineda
+
+  ### Policy Working papers
+
   - {::options parse_block_html="true" /}
-    <details><summary markdown="span"> Forced Displacement of Migrants, Social Cohesion, and Political Engagement **with** [Elaine K. Denny](https://faculty.ucmerced.edu/edenny/), [David A. Dow](https://sites.google.com/view/davidadow/home) and [Gabriella Levy](https://gabriellalevy.net/). [*World Bank Working Paper*](http://documents1.worldbank.org/curated/en/099730304262235605/pdf/IDU02026f74207fd304e610a1160b8141ae76d28.pdf) </summary>
+    <details><summary markdown="span"> Forced Displacement of Migrants, Social Cohesion, and Political Engagement **with** [Elaine K. Denny](https://faculty.ucmerced.edu/edenny/), [David A. Dow](https://sites.google.com/view/davidadow/home) and [Gabriella Levy](https://gabriellalevy.net/). [*World Bank Working Paper 10020*](http://documents1.worldbank.org/curated/en/099730304262235605/pdf/IDU02026f74207fd304e610a1160b8141ae76d28.pdf)      </summary>
     <p> <sub>
     **Abstract:** How does extortion experienced during the migration journey affect the civic engagement of deported migrants returned to their home country?  More broadly, how does extortion affect political participation? We know very little about either the political behavior of returnees or about how coercive economic shocks experienced during migration affect subsequent levels of political participation. Furthermore, existing literature on how victimization affects political participation is inconclusive, particularly when combined with existing work on economic insecurity. Studying deported migrants and the quasi-random experience of extortion enables us to address the endogeneity that often confounds these analyses. This approach allows us to isolate the impact of extortion on political action from potentially confounding factors related to local security or corruption. Using a novel dataset from Guatemalan migrants returned to Guatemala by the U.S. government, we find that extortion has a direct, positive relationship with multiple forms of civic action, and that, at least in this context, the mobilizing effects of economic hardship outweigh the potentially demobilizing effects of fear of crime.
     </sub> </p>
@@ -58,18 +71,13 @@ title: Research
     {::options parse_block_html="false" /}
 
   - {::options parse_block_html="true" /}
-    <details><summary markdown="span"> Educational integration of forced migrants in Chile **with** Christian Blanco and [Francisco Meneses](https://fjmenese.github.io/). *Working Paper* </summary>
+    <details><summary markdown="span"> Why Student Aid Matters? Roadblocks to the Transition into Higher Education  for Forced Migrants in Chile **with** Christian Blanco and [Francisco Meneses](https://fjmenese.github.io/). [*World Bank Working Paper 10104*](http://documents.worldbank.org/curated/en/099321006232214741/pdf/IDU098e3e45807dbf0416d0b96c006008f32a01a.pdf)    </summary>
     <p> <sub>
-    **Abstract:** Education is a powerful tool for social mobility and cultural integration. However, it is one of the largest hurdles for migrants and particularly for forcefully displaced migrants given their more vulnerable condition and the lack of resources to pay for private education. In this paper we explore when do of the gaps between migrants and natives appear in Chile, a country who provides free education for newcomers in public schools. We use administrative data sets for all students in the Chilean educational system and follow students between years 2017 and 2018. Moreover, we use a research discontinuity design around the cut-off for financial aid to tertiary education to investigate if access to financial aid generates incentives for forced migrants to enroll in tertiary education. We confirm previous findings that show that migrants have lower advancement and enrollment rates when compared to natives at every school level. We find that financial aid application is a major roadblock for migrants students to access higher education. Furthermore, we find suggestive evidence that migrants in general education schools who register for financial aid tend to increase their higher educational enrollment, while this effect is not significant for migrants in the vocational track.
+    **Abstract:** Education is a powerful tool for social mobility and cultural integration. However, it is one of the largest hurdles for migrants—particularly for forcefully displaced migrants, given their more vulnerable condition and lack of resources to pay for private education. This paper explores educational gaps between migrants and natives in Chile, a country that provides free public education to newcomers. The paper analyzes an administrative data set that includes all students in the Chilean educational system and follows students from 2017 to 2018. Using a research discontinuity design around the cut-off for financial aid to tertiary education, this paper investigates whether access to financial aid generates incentives for forced migrants to enroll in tertiary education. This research confirms previous findings that show that migrants have lower advancement and enrollment rates than natives at every school level. Moreover, it f inds that financial aid applications constitute a major roadblock preventing migrant students from accessing higher education. Furthermore, the paper presents suggestive evidence showing that the interaction between the type of school (vocational vs. technical) and the migrant condition affects applications for financial aid.
     </sub> </p>
     </details>
     {::options parse_block_html="false" /}
-
-### Work in Progress
-  - Saludos a la bandera y la conexión electoral.
-  - DDR and ex-combatant well-being **with** Javier Cardenas and [Juan F. Tellez](https://juanftellez.com/).
-  - Property Rights and Deforestation in the Brazilian Amazon **with** Marcelo Gonçalves and Sofía Calderón
-  - District Selection and Racial Identity **with** Cristina Echeverri-Pineda
+    
 
 ### Publications in other media
 
