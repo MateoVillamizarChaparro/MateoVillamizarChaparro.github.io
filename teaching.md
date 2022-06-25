@@ -9,16 +9,21 @@ title: Teaching
         - Lab materials [here](https://github.com/sanmavicha/MLE_Lab).
     - Political Science Extended Math Camp (grad) *with* David Siegel.
     - Ralph Bunche Summer Institute, Methods *with* David Siegel.
+        - Lab materials [here](https://github.com/sanmavicha/RBSI)
   - As a grader
     - PolSci 146 (undergrad): Politics and Economics *with* Daniel Stegmueller.
 
 ### University of California San Diego:
   - As a teaching assistant
     - POLI 11 (undergrad): Introduction to Comparative Politics *with* Karen Ferree.
+        - [Student Evaluations](https://www.dropbox.com/s/p7o6fi1ycdfvv87/Evaluation%20Results%20_%20Intro%20Comp%20Pol.pdf?dl=0)
     - POLI 30 (undergrad): Political Inquiry *with* Peter Galderisi.
     - GPCO 401 (grad): Microeconomics for Policy and Management *with* Gordon C. McCord.
+        - [Student Evaluations](https://www.dropbox.com/s/vz1u7dz69uulsgd/Evaluation%20Results%20_%20Micro.pdf?dl=0)
     - GPCO 400 (grad): Policy Making Process *with* David G. Victor
+        - [Student Evaluations](https://www.dropbox.com/s/u4qk9623vcrlo3g/Evaluation%20Results%20_%20PMP.pdf?dl=0)
     - GPCO 403 (grad): International Economics *with* Natalia Ramondo.
+        - [Student Evaluations](https://www.dropbox.com/s/hladsqqd7fj3tkd/Evaluation%20Results%20_%20Inal_Econ.pdf?dl=0)
   - As a grader
     - POLI 142 (undergrad): Insurgency and Terrorism *with* David Mares.
 
