@@ -16,8 +16,6 @@ Click on the arrows to access the abstracts.
 ### Working Papers
 
   - The Effect of COVID-19 and Economic Stimulus on Food Security **with** [Timothy R. McDade](https://trmcdade.github.io/),  Molly Jacobs, and Michelle Corea.*Under Review*
-  - The Human Cost of Deportation **with** [Elaine K. Denny](https://faculty.ucmerced.edu/edenny/), [David A. Dow](https://sites.google.com/view/davidadow/home), [Diego Romero](https://diego-romero.com/), [Juan F. Tellez](https://juanftellez.com/), [Erik Wibbels](https://sites.duke.edu/wibbels/), and Pamela Zabala. *Under Review*
-    - Covering in [Brookings](https://www.brookings.edu/blog/future-development/2021/04/02/4-things-the-biden-administration-should-pay-attention-to-with-the-border-crisis/), [Plaza P\'ublica](https://www.plazapublica.com.gt/content/deportados-en-guatemala-solo-hay-carencias-por-eso-quieren-volver), and [Plaza P\'ublica](https://www.plazapublica.com.gt/content/encuesta-deportados-solo-quieren-volver-huir-del-pais)
 
   - {::options parse_block_html="true" /}
     <details><summary markdown="span"> Precarity, and Preferences for Redistribution in Weak States: Evidence from the Philippines **with** [Dean Dulay](https://www.deandulay.com/) and [Janica Magat](https://janicamagat.com/) *Working Paper* </summary>
@@ -77,6 +75,13 @@ Click on the arrows to access the abstracts.
     </sub> </p>
     </details>
     {::options parse_block_html="false" /}
+
+  - The Human Cost of Deportation **with** [Elaine K. Denny](https://faculty.ucmerced.edu/edenny/), [David A. Dow](https://sites.google.com/view/davidadow/home), [Diego Romero](https://diego-romero.com/), [Gabriella Levy](https://gabriellalevy.net/), [Juan F. Tellez](https://juanftellez.com/), Weyne Pitts, [Erik Wibbels](https://sites.duke.edu/wibbels/), and Pamela Zabala.. [*Actualidad Política #19*](http://www.asies.org.gt/download.php?get=actualidad_politica_n_19.pdf)
+      - Covering in [Brookings](https://www.brookings.edu/blog/future-development/2021/04/02/4-things-the-biden-administration-should-pay-attention-to-with-the-border-crisis/), [Plaza P\'ublica](https://www.plazapublica.com.gt/content/deportados-en-guatemala-solo-hay-carencias-por-eso-quieren-volver), and [Plaza P\'ublica](https://www.plazapublica.com.gt/content/encuesta-deportados-solo-quieren-volver-huir-del-pais)
+
+
+
+
 
 
 ### Publications in other media
