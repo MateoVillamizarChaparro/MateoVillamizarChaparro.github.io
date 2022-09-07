@@ -26,7 +26,7 @@ Click on the arrows to access the abstracts.
     {::options parse_block_html="false" /}
 
   - {::options parse_block_html="true" /}
-    <details><summary markdown="span"> Types of Corruption and Public Support for Corrupt Politicians: Experimental Evidence from the Philippines **with** [Dean Dulay](https://www.deandulay.com/) and [Janica Magat](https://janicamagat.com/) *Under Review* </summary>
+    <details><summary markdown="span"> Types of Corruption and Public Support for Corrupt Politicians: Experimental Evidence from the Philippines **with** [Dean Dulay](https://www.deandulay.com/) and [Janica Magat](https://janicamagat.com/) *Working Paper* </summary>
     <p> <sub>
     **Abstract:** Political corruption diminishes democratic accountability and leads to economic inefficiencies, yet voters all over the world vote for corrupt politicians. What explains this phenomenon? This letter argues that corruption takes different forms and, in turn, has different effects on public support. We conduct a survey experiment on voters in the Philippines to examine how type of corruption affects their support for politicians. The results display a corruption ordering. Relative to no corruption, respondents who received the nepotism treatment are 21.6 percentage points less likely to vote for the mayor, respondents receiving the bribery treatment 35 p.p. less likely, and those receiving the theft treatment 50 p.p. less likely. These results are robust to a variety of alternative specifications and are consistent with theories of social distance and different norms and values as potential explanations. Our results suggest that type of corruption is a key determinant of corrupt politicians' electoral success.
     </sub> </p>
@@ -47,6 +47,14 @@ Click on the arrows to access the abstracts.
     <details><summary markdown="span"> Between locals and migrants: Politicians and vote buying in Colombia *Working Paper* </summary>
     <p> <sub>
     **Abstract:** The number of internal migrants in the developing world has been increasing as a result of climate change, violence and economic development. How do these flows of migrants affect vote-buying structures? Unlike their international counterparts, internal migrants still retain their right to vote and hence could be included in vote-buying schemes. This paper uses a formal model to analyze the decision a politician makes when allocating private benefits between migrants and natives. The model indicates that politicians will distribute private benefits to migrants when there is  a low level of political competition. Using individual and municipal quantitative data from Colombia alongside  qualitative work, I find that migrants engage less in vote-buying practices in more competitive environments. This result is most likely the effect of migrant turnout rather than issues with migrant voting registration. The results also show that vote-buying interactions between politicians and migrants are one shot leaving aside the idea of relational clientelism. Finally, political competition reduces the amount of private benefits distributed by local political machines. These findings complement the results from migrant integration into formal political settings as campaigns and candidacies.
+    </sub> </p>
+    </details>
+    {::options parse_block_html="false" /}
+
+    {::options parse_block_html="true" /}
+    <details><summary markdown="span"> Displacing Slums: The Political, Economic and Spatial Determinants of Slum Evictions in Patna, India **with** Harlan Downs-Tepper and [Emily K. Rains](https://www.ekrains.com/). *Working Paper* </summary>
+    <p> <sub>
+    **Abstract:** Urban economic growth is often associated with transformation and beautification in the name of development. However, to build new roads or create green space, city planners transform the preexisting urban environment. This process creates winners and losers, and often involves the eviction and displacement of poor households. In this paper, we investigate how governments decide whom to displace, and whom to leave untouched, in the name of modernization. Drawing on a unique combination of pre-eviction surveys, post-eviction interviews, and novel geospatial data, we analyze the case of slums in Patna, Bihar, the capital of India’s poorest state. We find that evictions are negatively associated with the economic value of the areas where slums are situated, and, contrary to our expectations, that strong local political connectedness does not prevent eviction.
     </sub> </p>
     </details>
     {::options parse_block_html="false" /}
