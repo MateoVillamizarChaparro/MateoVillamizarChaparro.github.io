@@ -91,7 +91,7 @@ Click on the arrows to access the abstracts.
   - Lebow, Villamizar-Chaparro and Wibbels (2021, Mar. 26) New survey highlights the unique challenges that Guatemalan deportees face with economic integration back home. ([Vox LACEA](http://www.lacea.org/vox/?q=blog/guatemalan_deportees_integration))
   - Dow, Tellez, Villamizar-Chaparro and Wibbels (2021, Mar. 3) Biden wants to halt deportations. Here’s what happens when migrants are sent back. ([The Monkey Cage](https://www.washingtonpost.com/politics/2021/03/03/biden-wants-halt-deportations-heres-what-happens-when-migrants-are-sent-back/))
   - Villamizar-Chaparro, M (2018) Editorial: Afro-Colombian Representation. ([Boletín 12 Antioquia Visible](https://issuu.com/antvisible/docs/boleti_n_av_n.12))
-  - Villamizar-Chaparro, M (2017, Nov 15) Rushing for Peace: The Fast-Track Mechanism in Colombia.([JIPS Blog](https://gpsjips.wixsite.com/jips/single-post/2017/11/15/Rushing-Peace-The-Fast-Track-in-Colombia))
+  - Villamizar-Chaparro, M (2017, Nov 15) Rushing for Peace: The Fast-Track Mechanism in Colombia.([JIPS Blog](https://www.jipsblog.com/post/rushing-peace-the-fast-track-in-colombia))
   - Villamizar-Chaparro, M (2017, Sep 8) Conducting Fieldwork in Colombia’s Squatters. ([JIPS Blog](https://www.jipsblog.com/post/conducting-fieldwork-in-colombia-s-squatters))
   - Villamizar-Chaparro, M. (2017, May 24) The Borders of Public Policy. ([JIPS Blog](https://www.jipsblog.com/post/the-borders-of-public-policy))
   - Villamizar-Chaparro, M. (2015, June 5). Dilemas del autogobierno afro: El caso Palenque. ([Cerosetenta](https://cerosetenta.uniandes.edu.co/dilemas-del-autogobierno-afro-el-caso-palenque/))
