@@ -13,9 +13,19 @@ Click on the arrows to access the abstracts.
   - Echeverri Pineda, C and **Villamizar Chaparro, M** (2018) *Representation and Political Participation of the Afro-Colombian Population: 2014 Elections and Black Legislators*. In *Polarización y posconflicto las elecciones nacionales y locales en Colombia, 2014-2017*, edited by Botero, F, García Sánchez, M and Wills-Otero, L. (Link to book [here](https://uniandes.edu.co/es/publicaciones/libro-polarizacion-y-posconflicto-felipe-botero-miguel-garcia-sanchez-laura-wills-otero)).
   - **Villamizar-Chaparro, M** and Echeverri-Pineda, C (2022) Blank votes and black organizations: explaining participation in the Afro-Colombian ethnic districts. In *En reconfiguración permanente: partidos y elecciones nacionales y subnacionales en Colombia 2018-2019*, edited by Botero, F; Ortega Gómez, Viviana; Pino, Juan Federico and Wills, L. (Link to book [here](https://ediciones.uniandes.edu.co/reader/en-configuracion-permanente-partidos-y-elecciones-nacionales-y-subnacionales-en-colombia-2018-2019?preview=true))
 
-### Working Papers
+### Peer Reviewed Journal Articles
 
-  - The Effect of COVID-19 and Economic Stimulus on Food Security **with** [Timothy R. McDade](https://trmcdade.github.io/),  Molly Jacobs, and Michelle Corea.*Under Review*
+  -  **with** .*Under Review*
+
+  {::options parse_block_html="true" /}
+    <details><summary markdown="span"> The Effect of COVID-19 and Economic Stimulus on Food Security **with** [Timothy R. McDade](https://trmcdade.github.io/),  [Molly Jacobs](https://www.researchgate.net/profile/Molly-Jacobs-5), and Michelle Corea **Accepted** *Journal of Ethnic and Health Disparities* </summary>
+    <p> <sub>
+    **Abstract:** In addition to the threat of serious illness, COVID-19 and subsequent restrictions had devastating economic consequences for many US citizens. This study examines the evolution of food security over the first months of the COVID-19 pandemic testing whether the initial economic stimulus payment improved the nutritional well-being of vulnerable populations. We use data from Phase 1 of the Census Bureau’s Household Pulse Survey among a nationally representative sample of adults and the 2017-2018 Current Population Survey Food Security Supplement. Using an ordered logistic regression, we assess differences in the incidence and severity of food security across demographic, income, geographic and employment status cohorts and assess the effects of the first economic stimulus payment. Our results show that marginalized groups faced greater food insecurity and had food-related outcomes worsen over time. Blacks, Hispanics, and individuals living in rural areas became less food secure as the pandemic progressed. However, receipt of a stimulus payment appears to have improved conditions. Rising food prices and persistent high unemployment have the potential to exacerbate food insecurity among marginalized and at-risk groups.
+    </sub> </p>
+    </details>
+    {::options parse_block_html="false" /}
+
+### Working Papers
 
   - {::options parse_block_html="true" /}
     <details><summary markdown="span"> Precarity, and Preferences for Redistribution in Weak States: Evidence from the Philippines **with** [Dean Dulay](https://www.deandulay.com/) and [Janica Magat](https://janicamagat.com/) *Working Paper* </summary>
