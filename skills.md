@@ -1,20 +1,14 @@
 ---
 <!-- layout: default -->
-title: Skills
+title: Dissertation Project
 ---
 
-### Technical skills:
-  - Stata
-  - R
-  - GitHub
-  - Stata
-  - LaTeX
-  - ArcGIS
-  - ODK
-  - Qualtrics
+### Electoral Markets on the Move: Migration and Migrants in Latin America:
 
+My three-paper dissertation revolves around the relationship between migration, public goods provision, and political participation in the Global South, emphasizing Latin America. The study of migration has been primarily focused on international movements towards advanced industrialized nations. However, the most extensive population changes are happening in developing countries where rural to urban migration is increasing. In fact, the World Bank expects that nearly 7 out of 10 people will be living in cities during 2050 (World Bank, 2021)). Moreover, some middle-income and low-income countries have become home for residents of other countries due to conflict, state failure, or natural disasters. All of this paints a picture where the analysis of the effects of migration in resource-constrained environments becomes crucial as questions about the provision of public goods and distributional policies intended to include these new individuals in local markets become prescient. This proposal focuses on how local politicians respond to migrant population shocks in their electoral markets and the long-run effects of those shocks in contemporary political attitudes. Overall, I argue that these migration flows create new mobile electorates that can present opportunities or challenges for local politicians concerning the distribution of public goods and services. More particularly, I explain how migration movements transform distributional policies, the politicians' choice of xenophobic discourses, and the long-run changes in support for affirmative action policies. 
 
-### Languages:
-  - English (advanced)
-  - Spanish (native)
-  - Portuguese (intermediate)
+The present dissertation prospectus will approach the political and economic effects of migration from three distinct perspectives. First, I analyze if the types of migration policies (focused on labor or land) can explain the current levels of support for affirmative action.  As an empirical setting, I focus on the *whitening* policies the Brazilian government implemented during the Age of Mass Migration (circa 1880-1950). Local governments, with the support of the state, were using either land or labor as incentives for white Europeans to migrate to Brazil (Loveman, 2014)). I argue that places that adopt land-driven settlement policies will create and reproduce more robust hierarchical structures that will affect individuals' confidence in the state. For whites, it will create more confidence in the state but less support to policies that could transform said hierarchical structures. For blacks, these policies will create less confidence in the state resulting in lower support for policies like affirmative action.
+
+Second, I look at local politicians' strategic decision between including or excluding internal migrants in distributing public and private goods after a large inflow of migrants in their districts. I focus on the role of migrants' electoral value, migrant vulnerability, and the social distance between migrants and locals in the politician's decision to distribute goods to migrants. Previous work has focused on migrants' right to vote or the results of making migrant registration easier (Gaikwad and Nellis, 2020, Wellman 2021). However, it is unclear what will happen in informal political structures like clientelistic networks. I use the Colombian case as the empirical setting since vote-buying, uneven public good distribution, and internal migration (due to civil conflict) are present in this context.
+
+Lastly, I study under what conditions politicians use xenophobic rhetoric for political and electoral reasons. When facing a native backlash to a large influx of migrants, politicians could decide to make the anti-migrant sentiment salient in their political discourse or ignore it completely. Empirical observations show that not all politicians who face a migrant influx engage in the strategic use of anti-migrant campaigns. Moreover, there is variation in the ideology of politicians making migration more salient, so it is not just a strategy for more conservative politicians. I argue that politicians will use xenophobic rhetoric in their political campaigns depending on the social distance between core voters and migrants and the economic distance between migrants and the politicians' core constituency. In this sense, anti-distribution politicians will use xenophobic rhetoric when social distance is high and economic distance is low. While, in the cases where the social distance is high, and the economic distance is high, pro-distribution politicians will be using xenophobic slurs. Low social distance will deter politicians from anti-migrant campaigns.
