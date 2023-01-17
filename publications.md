@@ -27,6 +27,14 @@ Click on the arrows to access the abstracts.
 ### Working Papers
 
   - {::options parse_block_html="true" /}
+    <details><summary markdown="span"> Extortion, Civic Action, and Political Participation among Guatemalan Deportees **with** [Elaine K. Denny](https://faculty.ucmerced.edu/edenny/), [David A. Dow](https://sites.google.com/view/davidadow/home) and [Gabriella Levy](https://gabriellalevy.net/). *R&R at BJPS* </summary>
+    <p> <sub>
+    **Abstract:** How does extortion affect political and civic engagement? Extortion is both a form of victimization and a type of economic hardship, yet existing literature is inconclusive about how both phenomena affect public participation. We argue that extortion as an economic shock will increase grievances, thereby increasing engagement. In contrast, extortion as victimization will prompt fear of crime, thereby depressing engagement. Using novel survey data from migrants deported to Guatemala by the U.S. government, we leverage the quasi-random experience of extortion during migration to test this theory. We find that extortion has a strong positive effect on both civic action and protest after deportation. The results suggest that this effect is mediated partly by increased economic hardship. These findings demonstrate that extortion experienced while migrating has long term financial consequences for deportees which may ultimately shape their reintegration into their home countries.
+    </sub> </p>
+    </details>
+    {::options parse_block_html="false" /}
+
+  - {::options parse_block_html="true" /}
     <details><summary markdown="span"> Precarity, and Preferences for Redistribution in Weak States: Evidence from the Philippines **with** [Dean Dulay](https://www.deandulay.com/) and [Janica Magat](https://janicamagat.com/) *Working Paper* </summary>
     <p> <sub>
     **Abstract:** The positive relationship between economic precarity and increased preferences for redistribution is well-established in a large literature focusing on the Global North. However, existing scholarship finds no relationship between precarity and redistribution in the Global South; the underlying reasons remain unclear. Moreover, existing papers conflate precarity and informality, thus confounding the interpretation of these results. We conducted a priming experiment and leveraged the COVID-19 pandemic to randomly vary perceptions of economic precarity for 1,526 individuals in Metro Manila, Philippines. We show that precarity is not correlated with increased demand for redistribution, but is correlated with a preference for non-contributory social assistance spending over contributory social insurance spending. This result is driven by the formal sector, suggesting that precarity does engender different views about redistribution among individuals with exposure to different social spending policies.
@@ -60,8 +68,8 @@ Click on the arrows to access the abstracts.
     </details>
     {::options parse_block_html="false" /}
 
-    {::options parse_block_html="true" /}
-    <details><summary markdown="span"> Displacing Slums: The Political, Economic and Spatial Determinants of Slum Evictions in Patna, India **with** Harlan Downs-Tepper and [Emily K. Rains](https://www.ekrains.com/). *Working Paper* </summary>
+  - {::options parse_block_html="true" /}
+    <details><summary markdown="span"> Displacing Slums: The Political, Economic and Spatial Determinants of Slum Evictions in Patna, India **with** Harlan Downs-Tepper and [Emily K. Rains](https://www.ekrains.com/). *Under Review* </summary>
     <p> <sub>
     **Abstract:** Urban economic growth is often associated with transformation and beautification in the name of development. However, to build new roads or create green space, city planners transform the preexisting urban environment. This process creates winners and losers, and often involves the eviction and displacement of poor households. In this paper, we investigate how governments decide whom to displace, and whom to leave untouched, in the name of modernization. Drawing on a unique combination of pre-eviction surveys, post-eviction interviews, and novel geospatial data, we analyze the case of slums in Patna, Bihar, the capital of India’s poorest state. We find that evictions are negatively associated with the economic value of the areas where slums are situated, and, contrary to our expectations, that strong local political connectedness does not prevent eviction.
     </sub> </p>
