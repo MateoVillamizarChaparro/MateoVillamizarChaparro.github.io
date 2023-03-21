@@ -16,13 +16,13 @@ Click on the arrows to access the abstracts.
 ### Peer Reviewed Journal Articles
 
   - {::options parse_block_html="true" /}
-    <details><summary markdown="span"> The Effect of COVID-19 and Economic Stimulus on Food Security **with** [Timothy R. McDade](https://trmcdade.github.io/),  [Molly Jacobs](https://www.researchgate.net/profile/Molly-Jacobs-5), and Michelle Corea *Journal of Racial and Ethnic Health Disparities* </summary>
+    <details><summary markdown="span"> Sick, Hungry, and Vulnerable: Federal Stimulus and Food Security on Marginalized Populations During the COVID‑19 Pandemic **with** [Timothy R. McDade](https://trmcdade.github.io/),  [Molly Jacobs](https://www.researchgate.net/profile/Molly-Jacobs-5), and Michelle Corea *Journal of Racial and Ethnic Health Disparities* </summary>
     <p> <sub>
     **Abstract:** In addition to the threat of serious illness, COVID-19 and subsequent restrictions had devastating economic consequences for many US citizens. This study examines the evolution of food security over the first months of the COVID-19 pandemic testing whether the initial economic stimulus payment improved the nutritional well-being of vulnerable populations. We use data from Phase 1 of the Census Bureau’s Household Pulse Survey among a nationally representative sample of adults and the 2017-2018 Current Population Survey Food Security Supplement. Using an ordered logistic regression, we assess differences in the incidence and severity of food security across demographic, income, geographic and employment status cohorts and assess the effects of the first economic stimulus payment. Our results show that marginalized groups faced greater food insecurity and had food-related outcomes worsen over time. Blacks, Hispanics, and individuals living in rural areas became less food secure as the pandemic progressed. However, receipt of a stimulus payment appears to have improved conditions. Rising food prices and persistent high unemployment have the potential to exacerbate food insecurity among marginalized and at-risk groups.
     </sub> </p>
     </details>
     {::options parse_block_html="false" /}
-    [Link to paper](https://link.springer.com/article/10.1007/s40615-022-01447-8)
+    [Link to paper](https://trmcdade.github.io/assets/papers/Jacobs_et_al_Food_Security_and_Covid_2022.pdf)
 
 ### Working Papers
 
