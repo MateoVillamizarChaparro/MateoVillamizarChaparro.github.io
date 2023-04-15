@@ -86,10 +86,9 @@ Click on the arrows to access the abstracts.
 
 
 ### Work in Progress
-  - Saludos a la bandera y la conexión electoral.
-  - DDR and ex-combatant well-being **with** Javier Cardenas and [Juan F. Tellez](https://juanftellez.com/). [**Pre-analysis plan**](https://osf.io/e9p8t)
+  - DDR and ex-combatant well-being **with** Javier Cárdenas and [Juan F. Tellez](https://juanftellez.com/). [**Pre-analysis plan**](https://osf.io/e9p8t)
   - Property Rights and Deforestation in the Brazilian Amazon **with** Marcelo Gonçalves and Sofía Calderón
-  - District Selection and Racial Identity **with** Diego Romero and Erik Wibbels [**Pre-analysis plan**](https://osf.io/j3knm)
+  - Coyote Selection **with** Diego Romero and Erik Wibbels [**Pre-analysis plan**](https://osf.io/j3knm)
 
 ### Policy Working papers
 
