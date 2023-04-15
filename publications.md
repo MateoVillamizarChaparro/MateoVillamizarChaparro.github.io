@@ -8,10 +8,10 @@ Click on the arrows to access the abstracts.
 
 ### Book Chapters
 
-  - Hoyos, C and **Villamizar Chaparro, M** (2019) *The Implementation of the Peace Accords in Congress: A legislative balance during 2017*. In *Excombatientes y acuerdo de paz con las FARC-EP en Colombia*, edited by Rettberg, A, and McFee, E. (Link to book [here](https://uniandes.ipublishcentral.com/product/excombatientes-y-acuerdo-de-paz-con-las-farcep-en-colombia)).
+  - Hoyos, C and **Villamizar Chaparro, M** (2019) *The Implementation of the Peace Accords in Congress: A legislative balance during 2017*. In *Excombatientes y acuerdo de paz con las FARC-EP en Colombia*, edited by Rettberg, A, and McFee, E. (In Spanish - Link to book [here](https://uniandes.ipublishcentral.com/product/excombatientes-y-acuerdo-de-paz-con-las-farcep-en-colombia)).
 
-  - Echeverri Pineda, C and **Villamizar Chaparro, M** (2018) *Representation and Political Participation of the Afro-Colombian Population: 2014 Elections and Black Legislators*. In *Polarización y posconflicto las elecciones nacionales y locales en Colombia, 2014-2017*, edited by Botero, F, García Sánchez, M and Wills-Otero, L. (Link to book [here](https://uniandes.edu.co/es/publicaciones/libro-polarizacion-y-posconflicto-felipe-botero-miguel-garcia-sanchez-laura-wills-otero)).
-  - **Villamizar-Chaparro, M** and Echeverri-Pineda, C (2022) Blank votes and black organizations: explaining participation in the Afro-Colombian ethnic districts. In *En reconfiguración permanente: partidos y elecciones nacionales y subnacionales en Colombia 2018-2019*, edited by Botero, F; Ortega Gómez, Viviana; Pino, Juan Federico and Wills, L. (Link to book [here](https://ediciones.uniandes.edu.co/reader/en-configuracion-permanente-partidos-y-elecciones-nacionales-y-subnacionales-en-colombia-2018-2019?preview=true))
+  - Echeverri Pineda, C and **Villamizar Chaparro, M** (2018) *Representation and Political Participation of the Afro-Colombian Population: 2014 Elections and Black Legislators*. In *Polarización y posconflicto las elecciones nacionales y locales en Colombia, 2014-2017*, edited by Botero, F, García Sánchez, M and Wills-Otero, L. (In Spanish - Link to book [here](https://uniandes.edu.co/es/publicaciones/libro-polarizacion-y-posconflicto-felipe-botero-miguel-garcia-sanchez-laura-wills-otero)).
+  - **Villamizar-Chaparro, M** and Echeverri-Pineda, C (2022) Blank votes and black organizations: explaining participation in the Afro-Colombian ethnic districts. In *En reconfiguración permanente: partidos y elecciones nacionales y subnacionales en Colombia 2018-2019*, edited by Botero, F; Ortega Gómez, Viviana; Pino, Juan Federico and Wills, L. (In Spanish - Link to book [here](https://ediciones.uniandes.edu.co/reader/en-configuracion-permanente-partidos-y-elecciones-nacionales-y-subnacionales-en-colombia-2018-2019?preview=true))
 
 ### Peer Reviewed Journal Articles
 
@@ -75,13 +75,21 @@ Click on the arrows to access the abstracts.
     </sub> </p>
     </details>
     {::options parse_block_html="false" /}
+  - {::options parse_block_html="true" /}
+    <details><summary markdown="span"> Group Consciousness and District Selection: Evidence from the Colombian Congress' Black Ethnic District with Cristina Echeverri-Pineda. *Working Paper* </summary>
+    <p> <sub>
+    **Abstract:** How does group consciousness affect the preferences for district selection? In this paper, we investigate if individuals that have a stronger group consciousness measured as historical discrimination, existences of linked fate, and inequalities in the treatment of different racial groups affect district choice. Using a multi-method design, using semi-structured interviews and a conjoint experiment in a sample of Afro-Colombians, we find evidence that group consciousness affects the preferences for ethnic districts over territorial ones. Our results also show that membership to ethnic organization or individuals episodes of discrimination do not change preferences for ethnic districts. These findings indicate that individuals with high levels of group consciousness tend to worry more about mechanisms ad institutions that can enhance the group's political representation. 
+    [**Pre-analysis plan**](https://osf.io/kda8s)
+    </sub> </p>
+    </details>
+    {::options parse_block_html="false" /}
 
 
 ### Work in Progress
   - Saludos a la bandera y la conexión electoral.
-  - DDR and ex-combatant well-being **with** Javier Cardenas and [Juan F. Tellez](https://juanftellez.com/).
+  - DDR and ex-combatant well-being **with** Javier Cardenas and [Juan F. Tellez](https://juanftellez.com/). [**Pre-analysis plan**](https://osf.io/e9p8t)
   - Property Rights and Deforestation in the Brazilian Amazon **with** Marcelo Gonçalves and Sofía Calderón
-  - District Selection and Racial Identity **with** Cristina Echeverri-Pineda
+  - District Selection and Racial Identity **with** Diego Romero and Erik Wibbels [**Pre-analysis plan**](https://osf.io/j3knm)
 
 ### Policy Working papers
 
