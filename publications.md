@@ -85,22 +85,22 @@ Click on the arrows to access the abstracts.
     </details>
     {::options parse_block_html="false" /}
 
-    - {::options parse_block_html="true" /}
-      <details><summary markdown="span"> Property Rights and Deforestation in the Brazilian Amazon **with** Marcelo Gonçalves and Subhrendu K. Pattanayak. *Working Paper* </summary>
-      <p> <sub>
-      **Abstract:** In the last decades, collective property rights (CPR) became one of the primary policies used to avoid deforestation and foster development worldwide. Still, the empirical evidence connecting CPR to improved development and environmental outcomes is scarce and conflicting, requiring further investigation. To address this gap, we evaluate the impact of various programs that granted land titles to Afro-descendant communities in Brazil throughout the last two decades. Contrary to prevalent views, titling is associated with increased deforestation and pasture area (a common sign of land degradation) and reduced land dedicated to agriculture. Additionally, considering that titling programs are essentially an institutional transformation, we explore the interaction of such programs with different institutional backgrounds. We conduct heterogeneity tests to verify whether the results are sensitive to levels of tenure protection and how titling programs interact with broader political institutions. We find that titling programs would only produce the effects mentioned above when the title covers the entire communal territory, so a partial title has no effect. Also, during electoral years, titled communities experience a recovery of part of their forest cover, a reduction in the proportion of land dedicated to agriculture (cultivated land), while pasture area remains unaltered. These findings suggest that collective titling alone does not ensure sustainable development among impoverished communities. For some communities, overcoming poverty while preserving environmental goods will require more comprehensive development policies conformed to the reality of these specific social groups.
-      </sub> </p>
-      </details>
-      {::options parse_block_html="false" /}
+  - {::options parse_block_html="true" /}
+    <details><summary markdown="span"> Property Rights and Deforestation in the Brazilian Amazon **with** Marcelo Gonçalves and Subhrendu K. Pattanayak. *Working Paper* </summary>
+    <p> <sub>
+    **Abstract:** In the last decades, collective property rights (CPR) became one of the primary policies used to avoid deforestation and foster development worldwide. Still, the empirical evidence connecting CPR to improved development and environmental outcomes is scarce and conflicting, requiring further investigation. To address this gap, we evaluate the impact of various programs that granted land titles to Afro-descendant communities in Brazil throughout the last two decades. Contrary to prevalent views, titling is associated with increased deforestation and pasture area (a common sign of land degradation) and reduced land dedicated to agriculture. Additionally, considering that titling programs are essentially an institutional transformation, we explore the interaction of such programs with different institutional backgrounds. We conduct heterogeneity tests to verify whether the results are sensitive to levels of tenure protection and how titling programs interact with broader political institutions. We find that titling programs would only produce the effects mentioned above when the title covers the entire communal territory, so a partial title has no effect. Also, during electoral years, titled communities experience a recovery of part of their forest cover, a reduction in the proportion of land dedicated to agriculture (cultivated land), while pasture area remains unaltered. These findings suggest that collective titling alone does not ensure sustainable development among impoverished communities. For some communities, overcoming poverty while preserving environmental goods will require more comprehensive development policies conformed to the reality of these specific social groups.
+    </sub> </p>
+    </details>
+    {::options parse_block_html="false" /}
 
-    - {::options parse_block_html="true" /}
-      <details><summary markdown="span"> The Market in Smugglers: Survey Experimental Evidence on the Choice of Coyotes in Guatemala.**with** [Diego Romero](https://diego-romero.com/) and [Erik Wibbels](https://web.sas.upenn.edu/ewibbels/) *Working Paper* </summary>
-      <p> <sub>
-      **Abstract:** How does group consciousness affect the preferences for district selection? In this paper, we investigate if individuals that have a stronger group consciousness measured as historical discrimination, existences of linked fate, and inequalities in the treatment of different racial groups affect district choice. Using a multi-method design, using semi-structured interviews and a conjoint experiment in a sample of Afro-Colombians, we find evidence that group consciousness affects the preferences for ethnic districts over territorial ones. Our results also show that membership to ethnic organization or individuals episodes of discrimination do not change preferences for ethnic districts. These findings indicate that individuals with high levels of group consciousness tend to worry more about mechanisms ad institutions that can enhance the group's political representation.
-      </sub> </p>
-      </details>
-      {::options parse_block_html="false" /}
-      [**Pre-analysis plan**](https://osf.io/j3knm)
+  - {::options parse_block_html="true" /}
+    <details><summary markdown="span"> The Market in Smugglers: Survey Experimental Evidence on the Choice of Coyotes in Guatemala.**with** [Diego Romero](https://diego-romero.com/) and [Erik Wibbels](https://web.sas.upenn.edu/ewibbels/) *Working Paper* </summary>
+    <p> <sub>
+    **Abstract:** How does group consciousness affect the preferences for district selection? In this paper, we investigate if individuals that have a stronger group consciousness measured as historical discrimination, existences of linked fate, and inequalities in the treatment of different racial groups affect district choice. Using a multi-method design, using semi-structured interviews and a conjoint experiment in a sample of Afro-Colombians, we find evidence that group consciousness affects the preferences for ethnic districts over territorial ones. Our results also show that membership to ethnic organization or individuals episodes of discrimination do not change preferences for ethnic districts. These findings indicate that individuals with high levels of group consciousness tend to worry more about mechanisms ad institutions that can enhance the group's political representation.
+    </sub> </p>
+    </details>
+    {::options parse_block_html="false" /}
+    [**Pre-analysis plan**](https://osf.io/j3knm)
 
 
 
