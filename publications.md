@@ -9,7 +9,6 @@ Click on the arrows to access the abstracts.
 ### Book Chapters
 
   - Hoyos, C and **Villamizar Chaparro, M** (2019) *The Implementation of the Peace Accords in Congress: A legislative balance during 2017*. In *Excombatientes y acuerdo de paz con las FARC-EP en Colombia*, edited by Rettberg, A, and McFee, E. (In Spanish - Link to book [here](https://uniandes.ipublishcentral.com/product/excombatientes-y-acuerdo-de-paz-con-las-farcep-en-colombia)).
-
   - Echeverri Pineda, C and **Villamizar Chaparro, M** (2018) *Representation and Political Participation of the Afro-Colombian Population: 2014 Elections and Black Legislators*. In *Polarización y posconflicto las elecciones nacionales y locales en Colombia, 2014-2017*, edited by Botero, F, García Sánchez, M and Wills-Otero, L. (In Spanish - Link to book [here](https://uniandes.edu.co/es/publicaciones/libro-polarizacion-y-posconflicto-felipe-botero-miguel-garcia-sanchez-laura-wills-otero)).
   - **Villamizar-Chaparro, M** and Echeverri-Pineda, C (2022) Blank votes and black organizations: explaining participation in the Afro-Colombian ethnic districts. In *En reconfiguración permanente: partidos y elecciones nacionales y subnacionales en Colombia 2018-2019*, edited by Botero, F; Ortega Gómez, Viviana; Pino, Juan Federico and Wills, L. (In Spanish - Link to book [here](https://ediciones.uniandes.edu.co/reader/en-configuracion-permanente-partidos-y-elecciones-nacionales-y-subnacionales-en-colombia-2018-2019?preview=true))
 
@@ -31,6 +30,7 @@ Click on the arrows to access the abstracts.
     </sub> </p>
     </details>
     {::options parse_block_html="false" /}
+    [Link to paper](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/extortion-civic-action-and-political-participation-among-guatemalan-deportees/4A6788068FBCB0C8050976469CAD9C78) [Replication Materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RSAM58)
 
 ### Working Papers
 
