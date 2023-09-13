@@ -4,7 +4,7 @@ title: Dissertation Project
 ---
 
 <p align="center">
-  <a href="url"><img src= "/assets/images/nuc_col_bomretiro.png" width="250" ></a>
+  <a href="url"><img src= "/assets/images/nuc_col_bomretiro.png" width="500" ></a>
 </p>
 
 ### Electoral Markets on the Move: Migration and Migrants in Latin America:
