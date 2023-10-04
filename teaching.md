@@ -7,9 +7,6 @@ As a teacher, my twin objectives are to foster curiosity about real-world politi
 
 I am eager to teach undergraduate and graduate courses on comparative politics, political economy, and migration. Additionally, I am enthusiastic about teaching more specialized classes on the political economy of Latin America, race and representation, and distributive politics. On the methods front, I can offer specialized courses on research design, causal inference, archival and field research, as well as basic regression, maximum likelihood, and econometrics. I am committed to designing undergraduate courses that provide students with opportunities to apply their knowledge to real-world contexts, while graduate courses help to facilitate the development and advancement of students' research agendas. You can find my syllabus for the PE of migration [here](https://www.dropbox.com/scl/fi/5gllbe6mpimizw4pdyr6o/Sample-Syllabus.pdf?rlkey=59hwd9l0tpfwus9i8y21msyta&dl=0).
 
-<p align="center">
-  <a href="url"><img src= "/assets/images/061623_bunche_scholars292.jpg" width="500" ></a>
-</p>
 
 ### Duke:
   - As a teaching assistant
