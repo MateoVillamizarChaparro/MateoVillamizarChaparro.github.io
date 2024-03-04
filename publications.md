@@ -13,18 +13,8 @@ Click on the arrows to access the abstracts.
   - **Villamizar-Chaparro, M** and Echeverri-Pineda, C (2022) Blank votes and black organizations: explaining participation in the Afro-Colombian ethnic districts. In *En reconfiguración permanente: partidos y elecciones nacionales y subnacionales en Colombia 2018-2019*, edited by Botero, F; Ortega Gómez, Viviana; Pino, Juan Federico and Wills, L. (In Spanish - Link to book [here](https://ediciones.uniandes.edu.co/reader/en-configuracion-permanente-partidos-y-elecciones-nacionales-y-subnacionales-en-colombia-2018-2019?preview=true))
 
 ### Peer Reviewed Journal Articles
-
   - {::options parse_block_html="true" /}
-    <details><summary markdown="span"> Sick, Hungry, and Vulnerable: Federal Stimulus and Food Security on Marginalized Populations During the COVID‑19 Pandemic **with** [Timothy R. McDade](https://trmcdade.github.io/),  [Molly Jacobs](https://www.researchgate.net/profile/Molly-Jacobs-5), and Michelle Corea *Journal of Racial and Ethnic Health Disparities* </summary>
-    <p> <sub>
-    **Abstract:** In addition to the threat of serious illness, COVID-19 and subsequent restrictions had devastating economic consequences for many US citizens. This study examines the evolution of food security over the first months of the COVID-19 pandemic testing whether the initial economic stimulus payment improved the nutritional well-being of vulnerable populations. We use data from Phase 1 of the Census Bureau’s Household Pulse Survey among a nationally representative sample of adults and the 2017-2018 Current Population Survey Food Security Supplement. Using an ordered logistic regression, we assess differences in the incidence and severity of food security across demographic, income, geographic and employment status cohorts and assess the effects of the first economic stimulus payment. Our results show that marginalized groups faced greater food insecurity and had food-related outcomes worsen over time. Blacks, Hispanics, and individuals living in rural areas became less food secure as the pandemic progressed. However, receipt of a stimulus payment appears to have improved conditions. Rising food prices and persistent high unemployment have the potential to exacerbate food insecurity among marginalized and at-risk groups.
-    </sub> </p>
-    </details>
-    {::options parse_block_html="false" /}
-    [Link to paper](https://trmcdade.github.io/assets/papers/Jacobs_et_al_Food_Security_and_Covid_2022.pdf)
-
-  - {::options parse_block_html="true" /}
-    <details><summary markdown="span"> Extortion, Civic Action, and Political Participation among Guatemalan Deportees **with** [Elaine K. Denny](https://faculty.ucmerced.edu/edenny/), [David A. Dow](https://sites.google.com/view/davidadow/home) and [Gabriella Levy](https://gabriellalevy.net/). *Forthcoming at BJPS* </summary>
+    <details><summary markdown="span"> [2] Extortion, Civic Action, and Political Participation among Guatemalan Deportees **with** [Elaine K. Denny](https://faculty.ucmerced.edu/edenny/), [David A. Dow](https://sites.google.com/view/davidadow/home) and [Gabriella Levy](https://gabriellalevy.net/). *Forthcoming at BJPS* </summary>
     <p> <sub>
     **Abstract:** How does extortion affect political and civic engagement? Extortion is both a form of victimization and a type of economic hardship, yet existing literature is inconclusive about how both phenomena affect public participation. We argue that extortion as an economic shock will increase grievances, thereby increasing engagement. In contrast, extortion as victimization will prompt fear of crime, thereby depressing engagement. Using novel survey data from migrants deported to Guatemala by the U.S. government, we leverage the quasi-random experience of extortion during migration to test this theory. We find that extortion has a strong positive effect on both civic action and protest after deportation. The results suggest that this effect is mediated partly by increased economic hardship. These findings demonstrate that extortion experienced while migrating has long term financial consequences for deportees which may ultimately shape their reintegration into their home countries.
     </sub> </p>
@@ -32,7 +22,27 @@ Click on the arrows to access the abstracts.
     {::options parse_block_html="false" /}
     [Link to paper](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/extortion-civic-action-and-political-participation-among-guatemalan-deportees/4A6788068FBCB0C8050976469CAD9C78) [Replication Materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RSAM58)
 
+  - {::options parse_block_html="true" /}
+    <details><summary markdown="span"> [1] Sick, Hungry, and Vulnerable: Federal Stimulus and Food Security on Marginalized Populations During the COVID‑19 Pandemic **with** [Timothy R. McDade](https://trmcdade.github.io/),  [Molly Jacobs](https://www.researchgate.net/profile/Molly-Jacobs-5), and Michelle Corea *Journal of Racial and Ethnic Health Disparities* </summary>
+    <p> <sub>
+    **Abstract:** In addition to the threat of serious illness, COVID-19 and subsequent restrictions had devastating economic consequences for many US citizens. This study examines the evolution of food security over the first months of the COVID-19 pandemic testing whether the initial economic stimulus payment improved the nutritional well-being of vulnerable populations. We use data from Phase 1 of the Census Bureau’s Household Pulse Survey among a nationally representative sample of adults and the 2017-2018 Current Population Survey Food Security Supplement. Using an ordered logistic regression, we assess differences in the incidence and severity of food security across demographic, income, geographic and employment status cohorts and assess the effects of the first economic stimulus payment. Our results show that marginalized groups faced greater food insecurity and had food-related outcomes worsen over time. Blacks, Hispanics, and individuals living in rural areas became less food secure as the pandemic progressed. However, receipt of a stimulus payment appears to have improved conditions. Rising food prices and persistent high unemployment have the potential to exacerbate food insecurity among marginalized and at-risk groups.
+    </sub> </p>
+    </details>
+    {::options parse_block_html="false" /}
+    [Link to paper](https://trmcdade.github.io/assets/papers/Jacobs_et_al_Food_Security_and_Covid_2022.pdf)
+
 ### Working Papers
+
+  - {::options parse_block_html="true" /}
+    <details><summary markdown="span"> Group Consciousness and District Selection: Evidence from the Colombian Congress' Black Ethnic District with Cristina Echeverri-Pineda. *R&R at Political Behavior* </summary>
+    <p> <sub>
+    **Abstract:** How does group consciousness affect the preferences for district selection? In this paper, we investigate if individuals that have a stronger group consciousness measured as historical discrimination, existences of linked fate, and inequalities in the treatment of different racial groups affect district choice. Using a multi-method design, using semi-structured interviews and a conjoint experiment in a sample of Afro-Colombians, we find evidence that group consciousness affects the preferences for ethnic districts over territorial ones. Our results also show that membership to ethnic organization or individuals episodes of discrimination do not change preferences for ethnic districts. These findings indicate that individuals with high levels of group consciousness tend to worry more about mechanisms ad institutions that can enhance the group's political representation.
+    </sub> </p>
+    </details>
+    {::options parse_block_html="false" /}
+    [**Pre-analysis plan**](https://osf.io/kda8s)
+
+  - {::options parse_block_html="true" /}
 
   - {::options parse_block_html="true" /}
     <details><summary markdown="span"> Precarity, and Preferences for Redistribution in Weak States: Evidence from the Philippines **with** [Dean Dulay](https://www.deandulay.com/) and [Janica Magat](https://janicamagat.com/) *Under Review* </summary>
@@ -41,6 +51,7 @@ Click on the arrows to access the abstracts.
     </sub> </p>
     </details>
     {::options parse_block_html="false" /}
+    [**Pre-analysis plan**](https://osf.io/u925a/)
 
   - {::options parse_block_html="true" /}
     <details><summary markdown="span"> Displacing Slums: The Political, Economic and Spatial Determinants of Slum Evictions in Patna, India **with** Harlan Downs-Tepper and [Emily K. Rains](https://www.ekrains.com/). *Under Review* </summary>
@@ -67,23 +78,13 @@ Click on the arrows to access the abstracts.
     </sub> </p>
     </details>
     {::options parse_block_html="false" /}
-
-  - {::options parse_block_html="true" /}
-    <details><summary markdown="span"> Between locals and migrants: Politicians and vote buying in Colombia *Working Paper* </summary>
+    <details><summary markdown="span"> Between locals and migrants: Politicians and vote buying in Colombia *Under Review* </summary>
     <p> <sub>
     **Abstract:** The number of internal migrants in the developing world has been increasing as a result of climate change, violence and economic development. How do these flows of migrants affect vote-buying structures? Unlike their international counterparts, internal migrants still retain their right to vote and hence could be included in vote-buying schemes. This paper uses a formal model to analyze the decision a politician makes when allocating private benefits between migrants and natives. The model indicates that politicians will distribute private benefits to migrants when there is  a low level of political competition. Using individual and municipal quantitative data from Colombia alongside  qualitative work, I find that migrants engage less in vote-buying practices in more competitive environments. This result is most likely the effect of migrant turnout rather than issues with migrant voting registration. The results also show that vote-buying interactions between politicians and migrants are one shot leaving aside the idea of relational clientelism. Finally, political competition reduces the amount of private benefits distributed by local political machines. These findings complement the results from migrant integration into formal political settings as campaigns and candidacies.
     </sub> </p>
     </details>
     {::options parse_block_html="false" /}
 
-  - {::options parse_block_html="true" /}
-    <details><summary markdown="span"> Group Consciousness and District Selection: Evidence from the Colombian Congress' Black Ethnic District with Cristina Echeverri-Pineda. *Working Paper* </summary>
-    <p> <sub>
-    **Abstract:** How does group consciousness affect the preferences for district selection? In this paper, we investigate if individuals that have a stronger group consciousness measured as historical discrimination, existences of linked fate, and inequalities in the treatment of different racial groups affect district choice. Using a multi-method design, using semi-structured interviews and a conjoint experiment in a sample of Afro-Colombians, we find evidence that group consciousness affects the preferences for ethnic districts over territorial ones. Our results also show that membership to ethnic organization or individuals episodes of discrimination do not change preferences for ethnic districts. These findings indicate that individuals with high levels of group consciousness tend to worry more about mechanisms ad institutions that can enhance the group's political representation.
-    [**Pre-analysis plan**](https://osf.io/kda8s)
-    </sub> </p>
-    </details>
-    {::options parse_block_html="false" /}
 
   - {::options parse_block_html="true" /}
     <details><summary markdown="span"> Property Rights and Deforestation in the Brazilian Amazon **with** Marcelo Gonçalves and Subhrendu K. Pattanayak. *Working Paper* </summary>
@@ -96,7 +97,7 @@ Click on the arrows to access the abstracts.
   - {::options parse_block_html="true" /}
     <details><summary markdown="span"> The Market in Smugglers: Survey Experimental Evidence on the Choice of Coyotes in Guatemala.**with** [Diego Romero](https://diego-romero.com/) and [Erik Wibbels](https://web.sas.upenn.edu/ewibbels/) *Working Paper* </summary>
     <p> <sub>
-    **Abstract:** How does group consciousness affect the preferences for district selection? In this paper, we investigate if individuals that have a stronger group consciousness measured as historical discrimination, existences of linked fate, and inequalities in the treatment of different racial groups affect district choice. Using a multi-method design, using semi-structured interviews and a conjoint experiment in a sample of Afro-Colombians, we find evidence that group consciousness affects the preferences for ethnic districts over territorial ones. Our results also show that membership to ethnic organization or individuals episodes of discrimination do not change preferences for ethnic districts. These findings indicate that individuals with high levels of group consciousness tend to worry more about mechanisms ad institutions that can enhance the group's political representation.
+    **Abstract:** How does group consciousness affect the preferences for district selection? In this paper, we investigate if individuals that have a stronger group consciousness measured as historical discrimination, existences of linked fate, and inequalities in the treatment of different racial groups affect district choice. Using a multi-method design, using semi-structured interviews and a conjoint experiment in a sample of Afro-Colombians, we find evidence that group consciousness affects the preferences for ethnic districts over territorial ones. Our results also show that membership to ethnic organization or individuals episodes of discrimination do not change preferences for ethnic districts. These findings indicate that individuals with high levels of group consciousness tend to worry more about mechanisms ad institutions that can enhance the group's political representation.    
     </sub> </p>
     </details>
     {::options parse_block_html="false" /}
