@@ -6,12 +6,6 @@ Click on the arrows to access the abstracts.
 
 **Please note**: when citing to my work please use my both last names, either as Villamizar Chaparro or Villamizar-Chaparro.
 
-### Book Chapters
-
-  - Hoyos, C and **Villamizar Chaparro, M** (2019) *The Implementation of the Peace Accords in Congress: A legislative balance during 2017*. In *Excombatientes y acuerdo de paz con las FARC-EP en Colombia*, edited by Rettberg, A, and McFee, E. (In Spanish - Link to book [here](https://uniandes.ipublishcentral.com/product/excombatientes-y-acuerdo-de-paz-con-las-farcep-en-colombia)).
-  - Echeverri Pineda, C and **Villamizar Chaparro, M** (2018) *Representation and Political Participation of the Afro-Colombian Population: 2014 Elections and Black Legislators*. In *Polarización y posconflicto las elecciones nacionales y locales en Colombia, 2014-2017*, edited by Botero, F, García Sánchez, M and Wills-Otero, L. (In Spanish - Link to book [here](https://uniandes.edu.co/es/publicaciones/libro-polarizacion-y-posconflicto-felipe-botero-miguel-garcia-sanchez-laura-wills-otero)).
-  - **Villamizar-Chaparro, M** and Echeverri-Pineda, C (2022) Blank votes and black organizations: explaining participation in the Afro-Colombian ethnic districts. In *En reconfiguración permanente: partidos y elecciones nacionales y subnacionales en Colombia 2018-2019*, edited by Botero, F; Ortega Gómez, Viviana; Pino, Juan Federico and Wills, L. (In Spanish - Link to book [here](https://ediciones.uniandes.edu.co/reader/en-configuracion-permanente-partidos-y-elecciones-nacionales-y-subnacionales-en-colombia-2018-2019?preview=true))
-
 ### Peer Reviewed Journal Articles
   - {::options parse_block_html="true" /}
     <details><summary markdown="span"> [2] Extortion, Civic Action, and Political Participation among Guatemalan Deportees **with** [Elaine K. Denny](https://faculty.ucmerced.edu/edenny/), [David A. Dow](https://sites.google.com/view/davidadow/home) and [Gabriella Levy](https://gabriellalevy.net/). *Forthcoming at BJPS* </summary>
@@ -31,8 +25,13 @@ Click on the arrows to access the abstracts.
     {::options parse_block_html="false" /}
     [Link to paper](https://trmcdade.github.io/assets/papers/Jacobs_et_al_Food_Security_and_Covid_2022.pdf)
 
-### Working Papers
+### Book Chapters
 
+  - [3] Hoyos, C and **Villamizar Chaparro, M** (2019) *The Implementation of the Peace Accords in Congress: A legislative balance during 2017*. In *Excombatientes y acuerdo de paz con las FARC-EP en Colombia*, edited by Rettberg, A, and McFee, E. (In Spanish - Link to book [here](https://uniandes.ipublishcentral.com/product/excombatientes-y-acuerdo-de-paz-con-las-farcep-en-colombia)).
+  - [2] Echeverri Pineda, C and **Villamizar Chaparro, M** (2018) *Representation and Political Participation of the Afro-Colombian Population: 2014 Elections and Black Legislators*. In *Polarización y posconflicto las elecciones nacionales y locales en Colombia, 2014-2017*, edited by Botero, F, García Sánchez, M and Wills-Otero, L. (In Spanish - Link to book [here](https://uniandes.edu.co/es/publicaciones/libro-polarizacion-y-posconflicto-felipe-botero-miguel-garcia-sanchez-laura-wills-otero)).
+  - [1] **Villamizar-Chaparro, M** and Echeverri-Pineda, C (2022) Blank votes and black organizations: explaining participation in the Afro-Colombian ethnic districts. In *En reconfiguración permanente: partidos y elecciones nacionales y subnacionales en Colombia 2018-2019*, edited by Botero, F; Ortega Gómez, Viviana; Pino, Juan Federico and Wills, L. (In Spanish - Link to book [here](https://ediciones.uniandes.edu.co/reader/en-configuracion-permanente-partidos-y-elecciones-nacionales-y-subnacionales-en-colombia-2018-2019?preview=true))
+
+### Under Review
   - {::options parse_block_html="true" /}
     <details><summary markdown="span"> Group Consciousness and District Selection: Evidence from the Colombian Congress' Black Ethnic District with Cristina Echeverri-Pineda. *R&R at Political Behavior* </summary>
     <p> <sub>
@@ -43,8 +42,6 @@ Click on the arrows to access the abstracts.
     [**Pre-analysis plan**](https://osf.io/kda8s)
 
   - {::options parse_block_html="true" /}
-
-  - {::options parse_block_html="true" /}
     <details><summary markdown="span"> Precarity, and Preferences for Redistribution in Weak States: Evidence from the Philippines **with** [Dean Dulay](https://www.deandulay.com/) and [Janica Magat](https://janicamagat.com/) *Under Review* </summary>
     <p> <sub>
     **Abstract:** The positive relationship between economic precarity and increased preferences for redistribution is well-established in a large literature focusing on the Global North. However, existing scholarship finds no relationship between precarity and redistribution in the Global South; the underlying reasons remain unclear. Moreover, existing papers conflate precarity and informality, thus confounding the interpretation of these results. We conducted a priming experiment and leveraged the COVID-19 pandemic to randomly vary perceptions of economic precarity for 1,526 individuals in Metro Manila, Philippines. We show that precarity is not correlated with increased demand for redistribution, but is correlated with a preference for non-contributory social assistance spending over contributory social insurance spending. This result is driven by the formal sector, suggesting that precarity does engender different views about redistribution among individuals with exposure to different social spending policies.
@@ -53,6 +50,16 @@ Click on the arrows to access the abstracts.
     {::options parse_block_html="false" /}
     [**Pre-analysis plan**](https://osf.io/u925a/)
 
+  - {::options parse_block_html="true" /}
+    <details><summary markdown="span"> Between locals and migrants: Politicians and vote buying in Colombia *Under Review* </summary>
+    <p> <sub>
+    **Abstract:** The number of internal migrants in the developing world has been increasing as a result of climate change, violence and economic development. How do these flows of migrants affect vote-buying structures? Unlike their international counterparts, internal migrants still retain their right to vote and hence could be included in vote-buying schemes. This paper uses a formal model to analyze the decision a politician makes when allocating private benefits between migrants and natives. The model indicates that politicians will distribute private benefits to migrants when there is  a low level of political competition. Using individual and municipal quantitative data from Colombia alongside  qualitative work, I find that migrants engage less in vote-buying practices in more competitive environments. This result is most likely the effect of migrant turnout rather than issues with migrant voting registration. The results also show that vote-buying interactions between politicians and migrants are one shot leaving aside the idea of relational clientelism. Finally, political competition reduces the amount of private benefits distributed by local political machines. These findings complement the results from migrant integration into formal political settings as campaigns and candidacies.
+    </sub> </p>
+    </details>
+    {::options parse_block_html="false" /}
+
+
+### Working Papers
   - {::options parse_block_html="true" /}
     <details><summary markdown="span"> Displacing Slums: The Political, Economic and Spatial Determinants of Slum Evictions in Patna, India **with** Harlan Downs-Tepper and [Emily K. Rains](https://www.ekrains.com/). *Under Review* </summary>
     <p> <sub>
@@ -69,8 +76,6 @@ Click on the arrows to access the abstracts.
     </details>
     {::options parse_block_html="false" /}
 
-  - New Interests, New Measures, Old Problems: An Analysis of the Latent Dimension(s) of Democracy **with** [Serkant Adiguzel](http://serkantadiguzel.com/), [Scott de Marchi](http://sdemarchi.weebly.com/), [Jeremy Springman](https://sites.duke.edu/jeremyspringman/) and [Erik Wibbels](https://sites.duke.edu/wibbels/). *Working Paper*
-
   - {::options parse_block_html="true" /}
     <details><summary markdown="span">Doves, Hawks, and Turnout: The Electoral Effects of Targeted Post-Conflict Political Violence **with** [Gabriella Levy](https://gabriellalevy.net/). *Working Paper*</summary>
     <p> <sub>
@@ -78,13 +83,6 @@ Click on the arrows to access the abstracts.
     </sub> </p>
     </details>
     {::options parse_block_html="false" /}
-    <details><summary markdown="span"> Between locals and migrants: Politicians and vote buying in Colombia *Under Review* </summary>
-    <p> <sub>
-    **Abstract:** The number of internal migrants in the developing world has been increasing as a result of climate change, violence and economic development. How do these flows of migrants affect vote-buying structures? Unlike their international counterparts, internal migrants still retain their right to vote and hence could be included in vote-buying schemes. This paper uses a formal model to analyze the decision a politician makes when allocating private benefits between migrants and natives. The model indicates that politicians will distribute private benefits to migrants when there is  a low level of political competition. Using individual and municipal quantitative data from Colombia alongside  qualitative work, I find that migrants engage less in vote-buying practices in more competitive environments. This result is most likely the effect of migrant turnout rather than issues with migrant voting registration. The results also show that vote-buying interactions between politicians and migrants are one shot leaving aside the idea of relational clientelism. Finally, political competition reduces the amount of private benefits distributed by local political machines. These findings complement the results from migrant integration into formal political settings as campaigns and candidacies.
-    </sub> </p>
-    </details>
-    {::options parse_block_html="false" /}
-
 
   - {::options parse_block_html="true" /}
     <details><summary markdown="span"> Property Rights and Deforestation in the Brazilian Amazon **with** Marcelo Gonçalves and Subhrendu K. Pattanayak. *Working Paper* </summary>
@@ -102,6 +100,8 @@ Click on the arrows to access the abstracts.
     </details>
     {::options parse_block_html="false" /}
     [**Pre-analysis plan**](https://osf.io/j3knm)
+
+ - New Interests, New Measures, Old Problems: An Analysis of the Latent Dimension(s) of Democracy **with** [Serkant Adiguzel](http://serkantadiguzel.com/), [Scott de Marchi](http://sdemarchi.weebly.com/), [Jeremy Springman](https://sites.duke.edu/jeremyspringman/) and [Erik Wibbels](https://sites.duke.edu/wibbels/). *Working Paper*
 
 
 
