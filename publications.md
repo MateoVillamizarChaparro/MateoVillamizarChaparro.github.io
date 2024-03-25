@@ -61,7 +61,7 @@ Click on the arrows to access the abstracts.
 
 ### Working Papers
   - {::options parse_block_html="true" /}
-    <details><summary markdown="span"> Displacing Slums: The Political, Economic and Spatial Determinants of Slum Evictions in Patna, India **with** Harlan Downs-Tepper and [Emily K. Rains](https://www.ekrains.com/). *Under Review* </summary>
+    <details><summary markdown="span"> Displacing Slums: The Political, Economic and Spatial Determinants of Slum Evictions in Patna, India **with** Harlan Downs-Tepper and [Emily K. Rains](https://www.ekrains.com/). *Working Paper* </summary>
     <p> <sub>
     **Abstract:** Urban economic growth is often associated with transformation and beautification in the name of development. However, to build new roads or create green space, city planners transform the preexisting urban environment. This process creates winners and losers, and often involves the eviction and displacement of poor households. In this paper, we investigate how governments decide whom to displace, and whom to leave untouched, in the name of modernization. Drawing on a unique combination of pre-eviction surveys, post-eviction interviews, and novel geospatial data, we analyze the case of slums in Patna, Bihar, the capital of India’s poorest state. We find that evictions are negatively associated with the economic value of the areas where slums are situated, and, contrary to our expectations, that strong local political connectedness does not prevent eviction.
     </sub> </p>
@@ -100,7 +100,6 @@ Click on the arrows to access the abstracts.
     </details>
     {::options parse_block_html="false" /}
     [**Pre-analysis plan**](https://osf.io/j3knm)
-
  - New Interests, New Measures, Old Problems: An Analysis of the Latent Dimension(s) of Democracy **with** [Serkant Adiguzel](http://serkantadiguzel.com/), [Scott de Marchi](http://sdemarchi.weebly.com/), [Jeremy Springman](https://sites.duke.edu/jeremyspringman/) and [Erik Wibbels](https://sites.duke.edu/wibbels/). *Working Paper*
 
 
