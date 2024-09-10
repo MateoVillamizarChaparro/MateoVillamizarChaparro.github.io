@@ -57,6 +57,13 @@ Click on the arrows to access the abstracts.
     </details>
     {::options parse_block_html="false" /}
 
+  - {::options parse_block_html="true" /}
+    <details><summary markdown="span"> Ties that bind?: the influence of wartime social networks on ex-combatant reintegration **with** [Juan F. Tellez] *Under Review* [**Pre-analysis plan**](https://osf.io/e9p8t) </summary>
+    <p> <sub>
+    **Abstract:** During armed conflicts, combatants forge deep ties with peers and leaders that often persist post-war. There is a growing consensus that these ties are a negative influence on ex-combatants, facilitating a return to arms or pulling former fighters into organized crime. We present suggestive evidence that this view may be overly pessimistic. We collect rare survey and qualitative interview data from demobilized fighters going through an economic reintegration program in Colombia. We find no evidence that ex-combatants who are actively attempting reintegration are influenced by wartime ties and some evidence that they \textit{discount} information from former fighters. Our results speak to the potential for ex-combatants to vary in their personal investment in demobilization and how state policies can structure ex-combatant decision-making.
+    </sub> </p>
+    </details>
+    {::options parse_block_html="false" /}
 
 ### Working Papers
   - {::options parse_block_html="true" /}
@@ -76,9 +83,9 @@ Click on the arrows to access the abstracts.
     {::options parse_block_html="false" /}
 
   - {::options parse_block_html="true" /}
-    <details><summary markdown="span">Doves, Hawks, and Turnout: The Electoral Effects of Targeted Post-Conflict Political Violence **with** [Gabriella Levy](https://gabriellalevy.net/). *Working Paper*</summary>
+    <details><summary markdown="span">Betting and Political Participation: The "Votanding" Experience **with** [Mónica Pachón](https://arqdis.uniandes.edu.co/profesores/monica-pachon/) and Carolina Bernal. *Working Paper* [**Pre-analysis plan**](osf.io/yn4mf)</summary>
     <p> <sub>
-    **Abstract:** What are the effects of violence against civic leaders and ex-combatants on electoral outcomes in unstable contexts emerging from conflict? Such individuals have been targeted in a range of countries, including Colombia and Afghanistan. Yet, existing research on wartime and electoral violence has rarely explored the killings of these non-combatants, who are neither regular people nor powerful politicians. Thus, we examine the relationship between 1) the deaths of social leaders and demobilized ex-combatants in Colombia following the 2016 peace agreement and 2) Colombian political participation and vote choice in 2018 and 2019 elections. Methodologically, we use a series of municipal level estimations followed by individual level regressions using DANE survey data from the Colombian government. Our results indicate that social leader and ex-combatant assassinations each reduce political engagement as well as support for the hawkish candidate. We also provide suggestive evidence that the assassinations not only reduce citizens' perceptions of their personal security but also increase their belief in the value of violence and depress their satisfaction with the state of democracy in their country. These results suggest that, through their impact on electoral participation, vote choice, and public attitudes, the assassinations may have countervailing effects on national stability.
+    **Abstract:** How can we encourage youth participation in politics? Previous scholarship on youth political participation has primarily focused on the impact of educational attainment and civic education programs on electoral engagement, potentially overlooking the fundamental origins of political interest. Additionally, existing research has not adequately addressed when and how political interest develops in young people. We argue that prediction-like markets can generate dispositional interest in politics among young voters, as betting will encourage them to engage with political information and increase their likelihood of voting. To test this hypothesis, we use an experimental design to investigate whether allowing participants to update their bets about local mayoral elections incentivizes them to seek information and improve their electoral predictions. Our results indicate that participants who could update their bets demonstrated increased political interest and more accurate predictions compared to both final election results and average poll predictions. While subsidizing initial bets had minimal overall impact, it interestingly led to decreased political interest among those who could update their bets, suggesting that updating was a costly activity for participants. Furthermore, subgroup analysis reveals that men generally showed higher political interest and were more responsive to subsidies in their predictions.
     </sub> </p>
     </details>
     {::options parse_block_html="false" /}
@@ -104,7 +111,6 @@ Click on the arrows to access the abstracts.
 
 
 ### Work in Progress
-  - DDR and ex-combatant well-being **with** [Juan F. Tellez](https://juanftellez.com/). [**Pre-analysis plan**](https://osf.io/e9p8t)
   - Elections and Democratic Backsliding **with** [Erik Wibbels](https://web.sas.upenn.edu/ewibbels/)
   - Xenophobic Rhetoric in Colombian elections
 
@@ -136,7 +142,7 @@ Click on the arrows to access the abstracts.
 
 
 ### Publications in other media
-
+  - Echeverri-Pineda, Cristina and Villamizar-Chaparro (2023, Jan. 1) District Selection and Racial Identity: Voting Preferences in the Colombian Congress’ Black District. ([Items](https://items.ssrc.org/democracy-papers/democratic-anxieties-in-the-americas/district-selection-and-racial-identity/))
   - Levy, Tellez and Villamizar-Chaparro (2021, Dec. 1) Five years after Colombia’s peace deal, the FARC is no longer on U.S. terrorist group lists. ([The Monkey Cage](https://www.washingtonpost.com/politics/2021/12/02/five-years-after-colombias-peace-deal-farc-is-no-longer-us-terror-group-lists/))
   - Denny, Dow, Ordoñez, Pitts, Romero, Tellez, Villamizar-Chaparro, Wibbels, and Zabala (2021, April 2) 4 things the Biden administration should pay attention to with the border crisis ([Brookings: Future Development Blog](https://www.brookings.edu/blog/future-development/2021/04/02/4-things-the-biden-administration-should-pay-attention-to-with-the-border-crisis/))
   - Lebow, Villamizar-Chaparro and Wibbels (2021, Mar. 26) New survey highlights the unique challenges that Guatemalan deportees face with economic integration back home. ([Vox LACEA](http://www.lacea.org/vox/?q=blog/guatemalan_deportees_integration))
