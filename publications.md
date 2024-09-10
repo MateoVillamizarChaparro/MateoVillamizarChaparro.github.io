@@ -41,13 +41,13 @@ Click on the arrows to access the abstracts.
 
 ### Under Review
   - {::options parse_block_html="true" /}
-    <details><summary markdown="span"> Precarity, and Preferences for Redistribution in Weak States: Evidence from the Philippines **with** [Dean Dulay](https://www.deandulay.com/) and [Janica Magat](https://janicamagat.com/) *Under Review* </summary>
+    <details><summary markdown="span"> Precarity, and Preferences for Redistribution in Weak States: Evidence from the Philippines **with** [Dean Dulay](https://www.deandulay.com/) and [Janica Magat](https://janicamagat.com/) *Under Review* [**Pre-analysis plan**](https://osf.io/u925a/) </summary>
     <p> <sub>
     **Abstract:** The positive relationship between economic precarity and increased preferences for redistribution is well-established in a large literature focusing on the Global North. However, existing scholarship finds no relationship between precarity and redistribution in the Global South; the underlying reasons remain unclear. Moreover, existing papers conflate precarity and informality, thus confounding the interpretation of these results. We conducted a priming experiment and leveraged the COVID-19 pandemic to randomly vary perceptions of economic precarity for 1,526 individuals in Metro Manila, Philippines. We show that precarity is not correlated with increased demand for redistribution, but is correlated with a preference for non-contributory social assistance spending over contributory social insurance spending. This result is driven by the formal sector, suggesting that precarity does engender different views about redistribution among individuals with exposure to different social spending policies.
     </sub> </p>
     </details>
     {::options parse_block_html="false" /}
-    [**Pre-analysis plan**](https://osf.io/u925a/)
+    
 
   - {::options parse_block_html="true" /}
     <details><summary markdown="span"> Between locals and migrants: Politicians and vote buying in Colombia *Under Review* </summary>
@@ -58,7 +58,7 @@ Click on the arrows to access the abstracts.
     {::options parse_block_html="false" /}
 
   - {::options parse_block_html="true" /}
-    <details><summary markdown="span"> Ties that bind?: the influence of wartime social networks on ex-combatant reintegration **with** [Juan F. Tellez] *Under Review* [**Pre-analysis plan**](https://osf.io/e9p8t) </summary>
+    <details><summary markdown="span"> Ties that bind?: the influence of wartime social networks on ex-combatant reintegration **with** [Juan F. Tellez](https://juanftellez.com/) *Under Review* [**Pre-analysis plan**](https://osf.io/e9p8t) </summary>
     <p> <sub>
     **Abstract:** During armed conflicts, combatants forge deep ties with peers and leaders that often persist post-war. There is a growing consensus that these ties are a negative influence on ex-combatants, facilitating a return to arms or pulling former fighters into organized crime. We present suggestive evidence that this view may be overly pessimistic. We collect rare survey and qualitative interview data from demobilized fighters going through an economic reintegration program in Colombia. We find no evidence that ex-combatants who are actively attempting reintegration are influenced by wartime ties and some evidence that they \textit{discount} information from former fighters. Our results speak to the potential for ex-combatants to vary in their personal investment in demobilization and how state policies can structure ex-combatant decision-making.
     </sub> </p>
@@ -99,13 +99,13 @@ Click on the arrows to access the abstracts.
     {::options parse_block_html="false" /}
 
   - {::options parse_block_html="true" /}
-    <details><summary markdown="span"> The Market in Smugglers: Survey Experimental Evidence on the Choice of Coyotes in Guatemala.**with** [Diego Romero](https://diego-romero.com/) and [Erik Wibbels](https://web.sas.upenn.edu/ewibbels/) *Working Paper* </summary>
+    <details><summary markdown="span"> The Market in Smugglers: Survey Experimental Evidence on the Choice of Coyotes in Guatemala.**with** [Diego Romero](https://diego-romero.com/) and [Erik Wibbels](https://web.sas.upenn.edu/ewibbels/) *Working Paper* [**Pre-analysis plan**](https://osf.io/j3knm) </summary>
     <p> <sub>
     **Abstract:** How does group consciousness affect the preferences for district selection? In this paper, we investigate if individuals that have a stronger group consciousness measured as historical discrimination, existences of linked fate, and inequalities in the treatment of different racial groups affect district choice. Using a multi-method design, using semi-structured interviews and a conjoint experiment in a sample of Afro-Colombians, we find evidence that group consciousness affects the preferences for ethnic districts over territorial ones. Our results also show that membership to ethnic organization or individuals episodes of discrimination do not change preferences for ethnic districts. These findings indicate that individuals with high levels of group consciousness tend to worry more about mechanisms ad institutions that can enhance the group's political representation.    
     </sub> </p>
     </details>
     {::options parse_block_html="false" /}
-    [**Pre-analysis plan**](https://osf.io/j3knm)
+
  - New Interests, New Measures, Old Problems: An Analysis of the Latent Dimension(s) of Democracy **with** [Serkant Adiguzel](http://serkantadiguzel.com/), [Scott de Marchi](http://sdemarchi.weebly.com/), [Jeremy Springman](https://sites.duke.edu/jeremyspringman/) and [Erik Wibbels](https://sites.duke.edu/wibbels/). *Working Paper*
 
 
