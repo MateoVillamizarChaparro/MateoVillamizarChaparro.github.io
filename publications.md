@@ -118,6 +118,14 @@ Click on the arrows to access the abstracts.
 ### Policy Working papers
 
   - {::options parse_block_html="true" /}
+    <details><summary markdown="span"> Elections as Windows of Opportunity? Civic Space in Democratic and Backsliding Regimes **with** [Erik Wibbels](https://web.sas.upenn.edu/ewibbels/). [*ML4P Report*](https://web.sas.upenn.edu/mlp-devlab/files/2024/08/elections.pdf)      </summary>
+    <p> <sub>
+    **Abstract:** Elections are events where democratic ideals are forged into tangible political outcomes. They’re the source of a government’s right to lead and the key factor in balancing power among different groups in society. However, these pivotal events can also present opportunities for aspiring autocrats. Such leaders may exploit elections to restrict civic space, weaken opposition forces, or further consolidate power. This concern is particularly relevant because most democratic backsliding is initiated by aspiring autocrats who come to power via elections, sometimes via narrow electoral victories.[1][5] Using high-frequency data from the Machine Learning for Peace (MLP) project, we provide unique evidence on the extent to which backsliding regimes differ from their liberal democratic counterparts in their treatment of civic space around elections
+    </sub> </p>
+    </details>
+    {::options parse_block_html="false" /}
+    
+  - {::options parse_block_html="true" /}
     <details><summary markdown="span"> Extortion and Civic Engagement  among Guatemalan Deportees **with** [Elaine K. Denny](https://faculty.ucmerced.edu/edenny/), [David A. Dow](https://sites.google.com/view/davidadow/home) and [Gabriella Levy](https://gabriellalevy.net/). [*World Bank Working Paper 10020*](http://documents1.worldbank.org/curated/en/099730304262235605/pdf/IDU02026f74207fd304e610a1160b8141ae76d28.pdf)      </summary>
     <p> <sub>
     **Abstract:** How does extortion experienced during the migration journey affect the civic engagement of deported migrants returned to their home country?  More broadly, how does extortion affect political participation? We know very little about either the political behavior of returnees or about how coercive economic shocks experienced during migration affect subsequent levels of political participation. Furthermore, existing literature on how victimization affects political participation is inconclusive, particularly when combined with existing work on economic insecurity. Studying deported migrants and the quasi-random experience of extortion enables us to address the endogeneity that often confounds these analyses. This approach allows us to isolate the impact of extortion on political action from potentially confounding factors related to local security or corruption. Using a novel dataset from Guatemalan migrants returned to Guatemala by the U.S. government, we find that extortion has a direct, positive relationship with multiple forms of civic action, and that, at least in this context, the mobilizing effects of economic hardship outweigh the potentially demobilizing effects of fear of crime.
@@ -133,7 +141,7 @@ Click on the arrows to access the abstracts.
     </details>
     {::options parse_block_html="false" /}
 
-  - The Human Cost of Deportation **with** [Elaine K. Denny](https://faculty.ucmerced.edu/edenny/), [David A. Dow](https://sites.google.com/view/davidadow/home), [Diego Romero](https://diego-romero.com/), [Gabriella Levy](https://gabriellalevy.net/), [Juan F. Tellez](https://juanftellez.com/), Weyne Pitts, [Erik Wibbels](https://sites.duke.edu/wibbels/), and Pamela Zabala.. [*Actualidad Política #19*](http://www.asies.org.gt/download.php?get=actualidad_politica_n_19.pdf)
+  - The Human Cost of Deportation **with** [Elaine K. Denny](https://faculty.ucmerced.edu/edenny/), [David A. Dow](https://sites.google.com/view/davidadow/home), [Diego Romero](https://diego-romero.com/), [Gabriella Levy](https://gabriellalevy.net/), [Juan F. Tellez](https://juanftellez.com/), Weyne Pitts, [Erik Wibbels](https://web.sas.upenn.edu/ewibbels/), and Pamela Zabala.. [*Actualidad Política #19*](http://www.asies.org.gt/download.php?get=actualidad_politica_n_19.pdf)
       - Covering in [Brookings](https://www.brookings.edu/blog/future-development/2021/04/02/4-things-the-biden-administration-should-pay-attention-to-with-the-border-crisis/), [Plaza P\'ublica](https://www.plazapublica.com.gt/content/deportados-en-guatemala-solo-hay-carencias-por-eso-quieren-volver), and [Plaza P\'ublica](https://www.plazapublica.com.gt/content/encuesta-deportados-solo-quieren-volver-huir-del-pais)
 
 
