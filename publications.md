@@ -8,7 +8,7 @@ Click on the arrows to access the abstracts.
 
 ### Peer Reviewed Journal Articles
   - {::options parse_block_html="true" /}
-    <details><summary markdown="span"> [3] Group Consciousness and District Selection: Evidence from the Colombian Congress' Black Ethnic District with Cristina Echeverri-Pineda. *Forthcoming at Political Behavior* </summary>
+    <details><summary markdown="span"> [3] Group Consciousness and District Selection: Evidence from the Colombian Congress' Black Ethnic District with Cristina Echeverri-Pineda. *Political Behavior* [Link](https://link.springer.com/article/10.1007/s11109-024-09972-4?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240925&utm_content=10.1007%2Fs11109-024-09972-4) </summary>
     <p> <sub>
     **Abstract:** How does group consciousness affect the preferences for district selection? In this paper, we investigate if individuals that have a stronger group consciousness measured as historical discrimination, existences of linked fate, and inequalities in the treatment of different racial groups affect district choice. Using a multi-method design, using semi-structured interviews and a conjoint experiment in a sample of Afro-Colombians, we find evidence that group consciousness affects the preferences for ethnic districts over territorial ones. Our results also show that membership to ethnic organization or individuals episodes of discrimination do not change preferences for ethnic districts. These findings indicate that individuals with high levels of group consciousness tend to worry more about mechanisms ad institutions that can enhance the group's political representation.
     </sub> </p>
@@ -47,7 +47,7 @@ Click on the arrows to access the abstracts.
     </sub> </p>
     </details>
     {::options parse_block_html="false" /}
-    
+
 
   - {::options parse_block_html="true" /}
     <details><summary markdown="span"> Between locals and migrants: Politicians and vote buying in Colombia *Under Review* </summary>
@@ -124,7 +124,7 @@ Click on the arrows to access the abstracts.
     </sub> </p>
     </details>
     {::options parse_block_html="false" /}
-    
+
   - {::options parse_block_html="true" /}
     <details><summary markdown="span"> Extortion and Civic Engagement  among Guatemalan Deportees **with** [Elaine K. Denny](https://faculty.ucmerced.edu/edenny/), [David A. Dow](https://sites.google.com/view/davidadow/home) and [Gabriella Levy](https://gabriellalevy.net/). [*World Bank Working Paper 10020*](http://documents1.worldbank.org/curated/en/099730304262235605/pdf/IDU02026f74207fd304e610a1160b8141ae76d28.pdf)      </summary>
     <p> <sub>
