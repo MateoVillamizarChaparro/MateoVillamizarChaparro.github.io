@@ -50,7 +50,7 @@ Click on the arrows to access the abstracts.
 
 
   - {::options parse_block_html="true" /}
-    <details><summary markdown="span"> Between locals and migrants: Politicians and vote buying in Colombia *Under Review* </summary>
+    <details><summary markdown="span"> Migrant Risky Business: Politicians and vote buying in Colombia *Under Review* </summary>
     <p> <sub>
     **Abstract:** The number of internal migrants in the developing world has been increasing as a result of climate change, violence and economic development. How do these flows of migrants affect vote-buying structures? Unlike their international counterparts, internal migrants still retain their right to vote and hence could be included in vote-buying schemes. This paper uses a formal model to analyze the decision a politician makes when allocating private benefits between migrants and natives. The model indicates that politicians will distribute private benefits to migrants when there is  a low level of political competition. Using individual and municipal quantitative data from Colombia alongside  qualitative work, I find that migrants engage less in vote-buying practices in more competitive environments. This result is most likely the effect of migrant turnout rather than issues with migrant voting registration. The results also show that vote-buying interactions between politicians and migrants are one shot leaving aside the idea of relational clientelism. Finally, political competition reduces the amount of private benefits distributed by local political machines. These findings complement the results from migrant integration into formal political settings as campaigns and candidacies.
     </sub> </p>
@@ -150,6 +150,7 @@ Click on the arrows to access the abstracts.
 
 
 ### Publications in other media
+  - Villamizar-Chaparro, Mateo and Saavedra, Melissa (2024) Ni fu ni fa: xenofobia, integracionismo, y la pugna por alcaldías y gobernaciones en 2023 ([Informe del Barómetro de la Xenofobia](https://drive.google.com/file/d/1d049ZNrvZBO3870AEzA43kATugAjl6Cl/view))
   - Echeverri-Pineda, Cristina and Villamizar-Chaparro (2023, Jan. 1) District Selection and Racial Identity: Voting Preferences in the Colombian Congress’ Black District. ([Items](https://items.ssrc.org/democracy-papers/democratic-anxieties-in-the-americas/district-selection-and-racial-identity/))
   - Levy, Tellez and Villamizar-Chaparro (2021, Dec. 1) Five years after Colombia’s peace deal, the FARC is no longer on U.S. terrorist group lists. ([The Monkey Cage](https://www.washingtonpost.com/politics/2021/12/02/five-years-after-colombias-peace-deal-farc-is-no-longer-us-terror-group-lists/))
   - Denny, Dow, Ordoñez, Pitts, Romero, Tellez, Villamizar-Chaparro, Wibbels, and Zabala (2021, April 2) 4 things the Biden administration should pay attention to with the border crisis ([Brookings: Future Development Blog](https://www.brookings.edu/blog/future-development/2021/04/02/4-things-the-biden-administration-should-pay-attention-to-with-the-border-crisis/))
