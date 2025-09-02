@@ -8,21 +8,21 @@ Click on the arrows to access the abstracts.
 
 ### Peer Reviewed Journal Articles
   - {::options parse_block_html="true" /}
-    <details><summary markdown="span"> [3] Group Consciousness and District Selection: Evidence from the Colombian Congress' Black Ethnic District with Cristina Echeverri-Pineda. *Political Behavior* [Link](https://link.springer.com/article/10.1007/s11109-024-09972-4?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240925&utm_content=10.1007%2Fs11109-024-09972-4) </summary>
+    <details><summary markdown="span"> [3] Group Consciousness and District Selection: Evidence from the Colombian Congress' Black Ethnic District with Cristina Echeverri-Pineda. *Political Behavior* [[Link to paper](https://link.springer.com/article/10.1007/s11109-024-09972-4?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240925&utm_content=10.1007%2Fs11109-024-09972-4)] </summary>
     <p> <sub>
     **Abstract:** How does group consciousness affect the preferences for district selection? In this paper, we investigate if individuals that have a stronger group consciousness measured as historical discrimination, existences of linked fate, and inequalities in the treatment of different racial groups affect district choice. Using a multi-method design, using semi-structured interviews and a conjoint experiment in a sample of Afro-Colombians, we find evidence that group consciousness affects the preferences for ethnic districts over territorial ones. Our results also show that membership to ethnic organization or individuals episodes of discrimination do not change preferences for ethnic districts. These findings indicate that individuals with high levels of group consciousness tend to worry more about mechanisms ad institutions that can enhance the group's political representation.
     </sub> </p>
     </details>
     {::options parse_block_html="false" /}
-    [**Pre-analysis plan**](https://osf.io/kda8s)
+    [[**Pre-analysis plan**](https://osf.io/kda8s)] [[Replication Materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/D5YYHO)]
   - {::options parse_block_html="true" /}
-    <details><summary markdown="span"> [2] Extortion, Civic Action, and Political Participation among Guatemalan Deportees **with** [Elaine K. Denny](https://faculty.ucmerced.edu/edenny/), [David A. Dow](https://sites.google.com/view/davidadow/home) and [Gabriella Levy](https://gabriellalevy.net/).(2024) *British Journal of Political Science* 54(1), 260–279. </summary>
+    <details><summary markdown="span"> [2] Extortion, Civic Action, and Political Participation among Guatemalan Deportees **with** [Elaine K. Denny](https://faculty.ucmerced.edu/edenny/), [David A. Dow](https://sites.google.com/view/davidadow/home) and [Gabriella Levy](https://gabriellalevy.net/). (2024) *British Journal of Political Science* 54(1), 260–279. </summary>
     <p> <sub>
     **Abstract:** How does extortion affect political and civic engagement? Extortion is both a form of victimization and a type of economic hardship, yet existing literature is inconclusive about how both phenomena affect public participation. We argue that extortion as an economic shock will increase grievances, thereby increasing engagement. In contrast, extortion as victimization will prompt fear of crime, thereby depressing engagement. Using novel survey data from migrants deported to Guatemala by the U.S. government, we leverage the quasi-random experience of extortion during migration to test this theory. We find that extortion has a strong positive effect on both civic action and protest after deportation. The results suggest that this effect is mediated partly by increased economic hardship. These findings demonstrate that extortion experienced while migrating has long term financial consequences for deportees which may ultimately shape their reintegration into their home countries.
     </sub> </p>
     </details>
     {::options parse_block_html="false" /}
-    [Link to paper](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/extortion-civic-action-and-political-participation-among-guatemalan-deportees/4A6788068FBCB0C8050976469CAD9C78) [Replication Materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RSAM58)
+    [[Link to paper](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/extortion-civic-action-and-political-participation-among-guatemalan-deportees/4A6788068FBCB0C8050976469CAD9C78)] [[Replication Materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RSAM58)]
 
   - {::options parse_block_html="true" /}
     <details><summary markdown="span"> [1] Sick, Hungry, and Vulnerable: Federal Stimulus and Food Security on Marginalized Populations During the COVID‑19 Pandemic **with** [Timothy R. McDade](https://trmcdade.github.io/),  [Molly Jacobs](https://www.researchgate.net/profile/Molly-Jacobs-5), and Michelle Corea *Journal of Racial and Ethnic Health Disparities* </summary>
@@ -65,35 +65,10 @@ Click on the arrows to access the abstracts.
     </details>
     {::options parse_block_html="false" /}
 
-### Working Papers
   - {::options parse_block_html="true" /}
-    <details><summary markdown="span"> European Ancestry and Affirmative Action: The Long-term Effects of Whitening Policies in Southern Brazil *Working Paper* </summary>
+    <details><summary markdown="span"> Asserting Development: Evidence on the Logic of Slum Evictions in Patna, India **with** Harlan Downs-Tepper and [Emily K. Rains](https://www.ekrains.com/). </summary>
     <p> <sub>
-    **Abstract:** Urban economic growth is often associated with transformation and beautification in the name of development. However, to build new roads or create green space, city planners transform the preexisting urban environment. This process creates winners and losers, and often involves the eviction and displacement of poor households. In this paper, we investigate how governments decide whom to displace, and whom to leave untouched, in the name of modernization. Drawing on a unique combination of pre-eviction surveys, post-eviction interviews, and novel geospatial data, we analyze the case of slums in Patna, Bihar, the capital of India’s poorest state. We find that evictions are negatively associated with the economic value of the areas where slums are situated, and, contrary to our expectations, that strong local political connectedness does not prevent eviction.
-    </sub> </p>
-    </details>
-    {::options parse_block_html="false" /}    
-
-  - {::options parse_block_html="true" /}
-    <details><summary markdown="span"> Displacing Slums: The Political, Economic and Spatial Determinants of Slum Evictions in Patna, India **with** Harlan Downs-Tepper and [Emily K. Rains](https://www.ekrains.com/). *Working Paper* </summary>
-    <p> <sub>
-    **Abstract:** Urban economic growth is often associated with transformation and beautification in the name of development. However, to build new roads or create green space, city planners transform the preexisting urban environment. This process creates winners and losers, and often involves the eviction and displacement of poor households. In this paper, we investigate how governments decide whom to displace, and whom to leave untouched, in the name of modernization. Drawing on a unique combination of pre-eviction surveys, post-eviction interviews, and novel geospatial data, we analyze the case of slums in Patna, Bihar, the capital of India’s poorest state. We find that evictions are negatively associated with the economic value of the areas where slums are situated, and, contrary to our expectations, that strong local political connectedness does not prevent eviction.
-    </sub> </p>
-    </details>
-    {::options parse_block_html="false" /}
-
-  - {::options parse_block_html="true" /}
-    <details><summary markdown="span"> Types of Corruption and Public Support for Corrupt Politicians: Experimental Evidence from the Philippines **with** [Dean Dulay](https://www.deandulay.com/) and [Janica Magat](https://janicamagat.com/) *Working Paper* </summary>
-    <p> <sub>
-    **Abstract:** Political corruption diminishes democratic accountability and leads to economic inefficiencies, yet voters all over the world vote for corrupt politicians. What explains this phenomenon? This letter argues that corruption takes different forms and, in turn, has different effects on public support. We conduct a survey experiment on voters in the Philippines to examine how type of corruption affects their support for politicians. The results display a corruption ordering. Relative to no corruption, respondents who received the nepotism treatment are 21.6 percentage points less likely to vote for the mayor, respondents receiving the bribery treatment 35 p.p. less likely, and those receiving the theft treatment 50 p.p. less likely. These results are robust to a variety of alternative specifications and are consistent with theories of social distance and different norms and values as potential explanations. Our results suggest that type of corruption is a key determinant of corrupt politicians' electoral success.
-    </sub> </p>
-    </details>
-    {::options parse_block_html="false" /}
-
-  - {::options parse_block_html="true" /}
-    <details><summary markdown="span">Betting and Political Participation: The "Votanding" Experience **with** [Mónica Pachón](https://arqdis.uniandes.edu.co/profesores/monica-pachon/) and Carolina Bernal. *Working Paper* [**Pre-analysis plan**](osf.io/yn4mf)</summary>
-    <p> <sub>
-    **Abstract:** How can we encourage youth participation in politics? Previous scholarship on youth political participation has primarily focused on the impact of educational attainment and civic education programs on electoral engagement, potentially overlooking the fundamental origins of political interest. Additionally, existing research has not adequately addressed when and how political interest develops in young people. We argue that prediction-like markets can generate dispositional interest in politics among young voters, as betting will encourage them to engage with political information and increase their likelihood of voting. To test this hypothesis, we use an experimental design to investigate whether allowing participants to update their bets about local mayoral elections incentivizes them to seek information and improve their electoral predictions. Our results indicate that participants who could update their bets demonstrated increased political interest and more accurate predictions compared to both final election results and average poll predictions. While subsidizing initial bets had minimal overall impact, it interestingly led to decreased political interest among those who could update their bets, suggesting that updating was a costly activity for participants. Furthermore, subgroup analysis reveals that men generally showed higher political interest and were more responsive to subsidies in their predictions.
+    **Abstract:** Urban economic growth often entails transformation that displaces vulnerable residents. As developing countries rapidly urbanize, millions living in informal settlements face eviction each year, often without notice or alternative arrangements upon displacement. Yet strikingly little quantitative evidence exists on which communities are displaced in the name of modernization and why. This article examines evictions in Patna, Bihar, India, using five data sources: administrative surveys of slums, pre-eviction household surveys, post-eviction interviews with local informants, panel satellite imagery, and novel geospatial data on economic activity. We find that officials primarily targeted the poorest settlements located on the least economically valuable land. Four years later, these sites were rarely redeveloped. Evictions were ordered by higher-level officials, and local political ties did not prevent displacement. Our findings collectively support the logic that higher-level officials order evictions to assert their authority in a context of complex overlapping jurisdictions, rather than for economic development purposes.
     </sub> </p>
     </details>
     {::options parse_block_html="false" /}
@@ -114,13 +89,49 @@ Click on the arrows to access the abstracts.
     </details>
     {::options parse_block_html="false" /}
 
- - New Interests, New Measures, Old Problems: An Analysis of the Latent Dimension(s) of Democracy **with** [Serkant Adiguzel](http://serkantadiguzel.com/), [Scott de Marchi](http://sdemarchi.weebly.com/), [Jeremy Springman](https://sites.duke.edu/jeremyspringman/) and [Erik Wibbels](https://sites.duke.edu/wibbels/). *Working Paper*
+### Working Papers
+  - {::options parse_block_html="true" /}
+    <details><summary markdown="span"> European Ancestry and Affirmative Action: The Long-term Effects of Whitening Policies in Southern Brazil *Working Paper* </summary>
+    <p> <sub>
+    **Abstract:** Urban economic growth is often associated with transformation and beautification in the name of development. However, to build new roads or create green space, city planners transform the preexisting urban environment. This process creates winners and losers, and often involves the eviction and displacement of poor households. In this paper, we investigate how governments decide whom to displace, and whom to leave untouched, in the name of modernization. Drawing on a unique combination of pre-eviction surveys, post-eviction interviews, and novel geospatial data, we analyze the case of slums in Patna, Bihar, the capital of India’s poorest state. We find that evictions are negatively associated with the economic value of the areas where slums are situated, and, contrary to our expectations, that strong local political connectedness does not prevent eviction.
+    </sub> </p>
+    </details>
+    {::options parse_block_html="false" /}    
+
+  - {::options parse_block_html="true" /}
+    <details><summary markdown="span"> Types of Corruption and Public Support for Corrupt Politicians: Experimental Evidence from the Philippines **with** [Dean Dulay](https://www.deandulay.com/) and [Janica Magat](https://janicamagat.com/) *Working Paper* </summary>
+    <p> <sub>
+    **Abstract:** Political corruption diminishes democratic accountability and leads to economic inefficiencies, yet voters all over the world vote for corrupt politicians. What explains this phenomenon? This letter argues that corruption takes different forms and, in turn, has different effects on public support. We conduct a survey experiment on voters in the Philippines to examine how type of corruption affects their support for politicians. The results display a corruption ordering. Relative to no corruption, respondents who received the nepotism treatment are 21.6 percentage points less likely to vote for the mayor, respondents receiving the bribery treatment 35 p.p. less likely, and those receiving the theft treatment 50 p.p. less likely. These results are robust to a variety of alternative specifications and are consistent with theories of social distance and different norms and values as potential explanations. Our results suggest that type of corruption is a key determinant of corrupt politicians' electoral success.
+    </sub> </p>
+    </details>
+    {::options parse_block_html="false" /}
+
+  - {::options parse_block_html="true" /}
+    <details><summary markdown="span">Betting and Political Participation: The "Votanding" Experience **with** [Mónica Pachón](https://arqdis.uniandes.edu.co/profesores/monica-pachon/) and Carolina Bernal. *Working Paper* [**Pre-analysis plan**](osf.io/yn4mf)</summary>
+    <p> <sub>
+    **Abstract:** How can we encourage youth participation in politics? Previous scholarship on youth political participation has primarily focused on the impact of educational attainment and civic education programs on electoral engagement, potentially overlooking the fundamental origins of political interest. Additionally, existing research has not adequately addressed when and how political interest develops in young people. We argue that prediction-like markets can generate dispositional interest in politics among young voters, as betting will encourage them to engage with political information and increase their likelihood of voting. To test this hypothesis, we use an experimental design to investigate whether allowing participants to update their bets about local mayoral elections incentivizes them to seek information and improve their electoral predictions. Our results indicate that participants who could update their bets demonstrated increased political interest and more accurate predictions compared to both final election results and average poll predictions. While subsidizing initial bets had minimal overall impact, it interestingly led to decreased political interest among those who could update their bets, suggesting that updating was a costly activity for participants. Furthermore, subgroup analysis reveals that men generally showed higher political interest and were more responsive to subsidies in their predictions.
+    </sub> </p>
+    </details>
+    {::options parse_block_html="false" /}
+
+  - {::options parse_block_html="true" /}
+    <details><summary markdown="span">Tracking Civic Space in Developing Countrieswith a High-Quality Corpus of Domestic Mediaand Transformer Models **with** [](), [Jeremy Springman](https://jrspringman.github.io/), [Erik Wibbels](https://web.sas.upenn.edu/ewibbels/), [Serkant Adiguzel](http://serkantadiguzel.com/), [Zung-Ru Lin](https://pdri-devlab.upenn.edu/bio/zung-ru-lin/), [Diego Romero](https://diego-romero.com/), Mahda Soltani, Hanling Su, and [Jitender Swami](https://sites.google.com/view/jitender-swami/home) . *Working Paper* [**Link to Paper**](https://osf.io/preprints/socarxiv/zp3sr_v1)</summary>
+    <p> <sub>
+    **Abstract:** Tracking Civic Space in Developing Countrieswith a High-Quality Corpus of Domestic Mediaand Transformer Models∗Donald A. Moratz†,1,2Jeremy Springman†,1,2Erik Wibbels†,1,2Serkant Adiguzel3Mateo Villamizar-Chaparro4Zung-Ru Lin1Diego Romero5Mahda Soltani6Hanling Su1Jitender Swami7August 21, 2025Civic space - the fundamental freedoms necessary for citizens to influence politics -is under constant contestation. Despite the importance of day-to-day contestation overthese rights, there is very little data allowing us to study the events and processes thatconstitute this struggle. We introduce new data that captures civic space activity across65 developing countries from 2012 to 2024. Using an original corpus of over 120 millionarticles from nearly 350 high-quality domestic media outlets and 30 international andregional outlets, we use human-supervised web scraping and open-source computationaltools to track monthly variation in media attention across 20 civic space events. Ourapproach yields three achievements: first, our corpus provides unprecedented coverageof reporting by developing country media outlets, addressing biases in other mediaevent data; second, the resulting monthly event data set covers a wide range of newcivic space activities; and third, we demonstrate the utility of this data for identifyingand forecasting major political events and discuss applications for research on regimedynamics during a time of democratic backsliding.
+    </sub> </p>
+    </details>
+    {::options parse_block_html="false" /}
+
+ - New Interests, New Measures, Old Problems: An Analysis of the Latent Dimension(s) of Democracy **with** [Serkant Adiguzel](http://serkantadiguzel.com/), [Scott de Marchi](http://sdemarchi.weebly.com/), [Jeremy Springman](https://jrspringman.github.io/) and [Erik Wibbels](https://web.sas.upenn.edu/ewibbels/). *Working Paper*
 
 
 
 ### Work in Progress
   - Elections and Democratic Backsliding **with** [Erik Wibbels](https://web.sas.upenn.edu/ewibbels/)
   - Xenophobic Rhetoric in Colombian elections
+  - Dual Citizenship, Political Participation and Exile
+  - Types of Clientelist Offers_ Evidence from Guatemala
+  - Televised Inequality: The Impact of Avenida Brasil on Perceptions of Inequality **with** [Yuhan Zheng](https://sites.google.com/view/yuhanzheng/about)
 
 
 ### Policy Working papers
@@ -158,6 +169,7 @@ Click on the arrows to access the abstracts.
 
 
 ### Publications in other media
+  - Villamizar-Chaparro, Mateo (2025) El ADN migratorio de Uruguay ([Blog: Razones y Personas](https://www.razonesypersonas.com/2025/08/el-adn-migratorio-de-uruguay.html))
   - Villamizar-Chaparro, Mateo and Saavedra, Melissa (2024) Ni fu ni fa: xenofobia, integracionismo, y la pugna por alcaldías y gobernaciones en 2023 ([Informe del Barómetro de la Xenofobia](https://drive.google.com/file/d/1d049ZNrvZBO3870AEzA43kATugAjl6Cl/view))
   - Echeverri-Pineda, Cristina and Villamizar-Chaparro (2023, Jan. 1) District Selection and Racial Identity: Voting Preferences in the Colombian Congress’ Black District. ([Items](https://items.ssrc.org/democracy-papers/democratic-anxieties-in-the-americas/district-selection-and-racial-identity/))
   - Levy, Tellez and Villamizar-Chaparro (2021, Dec. 1) Five years after Colombia’s peace deal, the FARC is no longer on U.S. terrorist group lists. ([The Monkey Cage](https://www.washingtonpost.com/politics/2021/12/02/five-years-after-colombias-peace-deal-farc-is-no-longer-us-terror-group-lists/))
