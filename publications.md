@@ -132,7 +132,7 @@ Click on the arrows to access the abstracts.
   - Dual Citizenship, Political Participation and Exile in the Southern Cone
   - Types of Clientelist Offers: Evidence from Guatemala
   - Televised Inequality: The Impact of Avenida Brasil on Perceptions of Inequality **with** [Yuhan Zheng](https://sites.google.com/view/yuhanzheng/about)
-  - Intra-Party Competition in Uruguay **with** [Inés Fynn](https://www.inesfynn.com/), [Rafael Piñeiro](https://www.ucu.edu.uy/institucional/docente/rafael-pineiro--219d), and (Rosario Queirolo)[https://sites.google.com/view/rosario-queirolo/inicio]
+  - Intra-Party Competition in Uruguay **with** [Inés Fynn](https://www.inesfynn.com/), [Rafael Piñeiro](https://www.ucu.edu.uy/institucional/docente/rafael-pineiro--219d), and [Rosario Queirolo](https://sites.google.com/view/rosario-queirolo/inicio)
 
 
 ### Policy Working papers
