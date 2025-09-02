@@ -8,7 +8,7 @@ Click on the arrows to access the abstracts.
 
 ### Peer Reviewed Journal Articles
   - {::options parse_block_html="true" /}
-    <details><summary markdown="span"> [3] Group Consciousness and District Selection: Evidence from the Colombian Congress' Black Ethnic District with Cristina Echeverri-Pineda. *Political Behavior* [[Link to paper](https://link.springer.com/article/10.1007/s11109-024-09972-4?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240925&utm_content=10.1007%2Fs11109-024-09972-4)] </summary>
+    <details><summary markdown="span"> [3] Group Consciousness and District Selection: Evidence from the Colombian Congress' Black Ethnic District **with** Cristina Echeverri-Pineda. *Political Behavior* [[Link to paper](https://link.springer.com/article/10.1007/s11109-024-09972-4?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240925&utm_content=10.1007%2Fs11109-024-09972-4)] </summary>
     <p> <sub>
     **Abstract:** How does group consciousness affect the preferences for district selection? In this paper, we investigate if individuals that have a stronger group consciousness measured as historical discrimination, existences of linked fate, and inequalities in the treatment of different racial groups affect district choice. Using a multi-method design, using semi-structured interviews and a conjoint experiment in a sample of Afro-Colombians, we find evidence that group consciousness affects the preferences for ethnic districts over territorial ones. Our results also show that membership to ethnic organization or individuals episodes of discrimination do not change preferences for ethnic districts. These findings indicate that individuals with high levels of group consciousness tend to worry more about mechanisms ad institutions that can enhance the group's political representation.
     </sub> </p>
@@ -129,9 +129,10 @@ Click on the arrows to access the abstracts.
 ### Work in Progress
   - Elections and Democratic Backsliding **with** [Erik Wibbels](https://web.sas.upenn.edu/ewibbels/)
   - Xenophobic Rhetoric in Colombian elections
-  - Dual Citizenship, Political Participation and Exile
-  - Types of Clientelist Offers_ Evidence from Guatemala
+  - Dual Citizenship, Political Participation and Exile in the Southern Cone
+  - Types of Clientelist Offers: Evidence from Guatemala
   - Televised Inequality: The Impact of Avenida Brasil on Perceptions of Inequality **with** [Yuhan Zheng](https://sites.google.com/view/yuhanzheng/about)
+  - Intra-Party Competition in Uruguay **with** [Inés Fynn](https://www.inesfynn.com/), [Rafael Piñeiro](https://www.ucu.edu.uy/institucional/docente/rafael-pineiro--219d), and (Rosario Queirolo)[https://sites.google.com/view/rosario-queirolo/inicio]
 
 
 ### Policy Working papers
