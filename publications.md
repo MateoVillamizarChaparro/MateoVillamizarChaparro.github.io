@@ -8,7 +8,7 @@ Click on the arrows to access the abstracts.
 
 ### Peer Reviewed Journal Articles
   - {::options parse_block_html="true" /}
-    <details><summary markdown="span"> [3] Group Consciousness and District Selection: Evidence from the Colombian Congress' Black Ethnic District **with** Cristina Echeverri-Pineda. *Political Behavior* [[Link to paper](https://link.springer.com/article/10.1007/s11109-024-09972-4?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240925&utm_content=10.1007%2Fs11109-024-09972-4)] </summary>
+    <details><summary markdown="span"> [3] Group Consciousness and District Selection: Evidence from the Colombian Congress' Black Ethnic District **with** Cristina Echeverri-Pineda. (2025) *Political Behavior* [[Link to paper](https://link.springer.com/article/10.1007/s11109-024-09972-4?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240925&utm_content=10.1007%2Fs11109-024-09972-4)] </summary>
     <p> <sub>
     **Abstract:** How does group consciousness affect the preferences for district selection? In this paper, we investigate if individuals that have a stronger group consciousness measured as historical discrimination, existences of linked fate, and inequalities in the treatment of different racial groups affect district choice. Using a multi-method design, using semi-structured interviews and a conjoint experiment in a sample of Afro-Colombians, we find evidence that group consciousness affects the preferences for ethnic districts over territorial ones. Our results also show that membership to ethnic organization or individuals episodes of discrimination do not change preferences for ethnic districts. These findings indicate that individuals with high levels of group consciousness tend to worry more about mechanisms ad institutions that can enhance the group's political representation.
     </sub> </p>
@@ -41,15 +41,6 @@ Click on the arrows to access the abstracts.
 
 ### Under Review
   - {::options parse_block_html="true" /}
-    <details><summary markdown="span"> Precarity, and Preferences for Redistribution in Weak States: Evidence from the Philippines **with** [Dean Dulay](https://www.deandulay.com/) and [Janica Magat](https://janicamagat.com/) *Under Review* [[**Pre-analysis plan**](https://osf.io/u925a/)] </summary>
-    <p> <sub>
-    **Abstract:** The positive relationship between economic precarity and increased preferences for redistribution is well-established in a large literature focusing on the Global North. However, existing scholarship finds no relationship between precarity and redistribution in the Global South; the underlying reasons remain unclear. Moreover, existing papers conflate precarity and informality, thus confounding the interpretation of these results. We conducted a priming experiment and leveraged the COVID-19 pandemic to randomly vary perceptions of economic precarity for 1,526 individuals in Metro Manila, Philippines. We show that precarity is not correlated with increased demand for redistribution, but is correlated with a preference for non-contributory social assistance spending over contributory social insurance spending. This result is driven by the formal sector, suggesting that precarity does engender different views about redistribution among individuals with exposure to different social spending policies.
-    </sub> </p>
-    </details>
-    {::options parse_block_html="false" /}
-
-
-  - {::options parse_block_html="true" /}
     <details><summary markdown="span"> Migrant Risky Business: Politicians and vote buying in Colombia *Under Review* </summary>
     <p> <sub>
     **Abstract:** The number of internal migrants in the developing world has been increasing due to climate change, violence, and economic development. How do these flows of migrants affect politicians' use of vote-buying? Unlike their international counterparts, internal migrants still retain their right to vote and hence can participate in elections. This paper presents a theory analyzing a politician's decision when allocating private benefits between migrants and natives. Using Colombia as a case study, this paper illustrates that politicians will distribute more private benefits to migrants when there are lower levels of political competition. This result is driven by the fact that migrants present a riskier investment for politicians. Results also show that low political turnout in high-migration areas is associated with less mobilization targeting. These findings complement the results from the lack of migrant integration into formal political settings as campaigns and candidacies by looking at informal distributional channels. 
@@ -66,7 +57,7 @@ Click on the arrows to access the abstracts.
     {::options parse_block_html="false" /}
 
   - {::options parse_block_html="true" /}
-    <details><summary markdown="span"> Asserting Development: Evidence on the Logic of Slum Evictions in Patna, India **with** Harlan Downs-Tepper and [Emily K. Rains](https://www.ekrains.com/). </summary>
+    <details><summary markdown="span"> Asserting Development: Evidence on the Logic of Slum Evictions in Patna, India **with** Harlan Downs-Tepper and [Emily K. Rains](https://www.ekrains.com/). R&R at Urban Affairs Review </summary>
     <p> <sub>
     **Abstract:** Urban economic growth often entails transformation that displaces vulnerable residents. As developing countries rapidly urbanize, millions living in informal settlements face eviction each year, often without notice or alternative arrangements upon displacement. Yet strikingly little quantitative evidence exists on which communities are displaced in the name of modernization and why. This article examines evictions in Patna, Bihar, India, using five data sources: administrative surveys of slums, pre-eviction household surveys, post-eviction interviews with local informants, panel satellite imagery, and novel geospatial data on economic activity. We find that officials primarily targeted the poorest settlements located on the least economically valuable land. Four years later, these sites were rarely redeveloped. Evictions were ordered by higher-level officials, and local political ties did not prevent displacement. Our findings collectively support the logic that higher-level officials order evictions to assert their authority in a context of complex overlapping jurisdictions, rather than for economic development purposes.
     </sub> </p>
@@ -82,7 +73,7 @@ Click on the arrows to access the abstracts.
     {::options parse_block_html="false" /}
 
   - {::options parse_block_html="true" /}
-    <details><summary markdown="span"> The Market in Smugglers: Survey Experimental Evidence on the Choice of Coyotes in Guatemala.**with** [Diego Romero](https://diego-romero.com/) and [Erik Wibbels](https://web.sas.upenn.edu/ewibbels/) *Working Paper* [[**Pre-analysis plan**](https://osf.io/j3knm)] </summary>
+    <details><summary markdown="span"> The Market in Smugglers: Survey Experimental Evidence on the Choice of Coyotes in Guatemala.**with** [Diego Romero](https://diego-romero.com/) and [Erik Wibbels](https://web.sas.upenn.edu/ewibbels/) [[**Pre-analysis plan**](https://osf.io/j3knm)] </summary>
     <p> <sub>
     **Abstract:** How does group consciousness affect the preferences for district selection? In this paper, we investigate if individuals that have a stronger group consciousness measured as historical discrimination, existences of linked fate, and inequalities in the treatment of different racial groups affect district choice. Using a multi-method design, using semi-structured interviews and a conjoint experiment in a sample of Afro-Colombians, we find evidence that group consciousness affects the preferences for ethnic districts over territorial ones. Our results also show that membership to ethnic organization or individuals episodes of discrimination do not change preferences for ethnic districts. These findings indicate that individuals with high levels of group consciousness tend to worry more about mechanisms ad institutions that can enhance the group's political representation.    
     </sub> </p>
@@ -126,6 +117,14 @@ Click on the arrows to access the abstracts.
     <details><summary markdown="span">Foreign Influence by Authoritarian Governments: Introducing New Data and Evidence **with** [Jeremy Springman](https://jrspringman.github.io/), Donald Moratz, [Erik Wibbels](https://web.sas.upenn.edu/ewibbels/), [Serkant Adiguzel](http://serkantadiguzel.com/), [Zung-Ru Lin](https://pdri-devlab.upenn.edu/bio/zung-ru-lin/), and [Diego Romero](https://diego-romero.com/).  [[**Link to Working Paper**](https://jrspringman.github.io/files/rai_full_paper.pdf)]</summary>
     <p> <sub>
     **Abstract:** Policymakers are increasingly concerned about the revival of superpower conflict. Increased competition among great powers has been especially evident in the exercise of foreign influence, where Russia and China have increased their efforts to influence less powerful nations. To date, the absence of quantitative data has limited systematic investigation of this resurgence of authoritarian influence activity. We introduce a new, country-month dataset tracking reports of influence by Russia and China in 62 aid-receiving countries from 2012 through 2024. We construct the data by applying large langauage models (LLMs) to an original corpus of more than 100 million news articles sourced from high-quality, domestic news sources and use it to describe trends in influence activity over time and across countries. Finally, we exploit the unique features of the data to test hypotheses about Russian influence activity in the months before the invasion of Ukraine. We document a dramatic increase in the use of diplomacy, economic power, and hard power before the invasion. In doing so, we show that this data is useful for both theory testing and foreign policy decision-making.
+    </sub> </p>
+    </details>
+    {::options parse_block_html="false" /}
+
+  - {::options parse_block_html="true" /}
+    <details><summary markdown="span"> Precarity, and Preferences for Redistribution in Weak States: Evidence from the Philippines **with** [Dean Dulay](https://www.deandulay.com/) and [Janica Magat](https://janicamagat.com/) [[**Pre-analysis plan**](https://osf.io/u925a/)] </summary>
+    <p> <sub>
+    **Abstract:** The positive relationship between economic precarity and increased preferences for redistribution is well-established in a large literature focusing on the Global North. However, existing scholarship finds no relationship between precarity and redistribution in the Global South; the underlying reasons remain unclear. Moreover, existing papers conflate precarity and informality, thus confounding the interpretation of these results. We conducted a priming experiment and leveraged the COVID-19 pandemic to randomly vary perceptions of economic precarity for 1,526 individuals in Metro Manila, Philippines. We show that precarity is not correlated with increased demand for redistribution, but is correlated with a preference for non-contributory social assistance spending over contributory social insurance spending. This result is driven by the formal sector, suggesting that precarity does engender different views about redistribution among individuals with exposure to different social spending policies.
     </sub> </p>
     </details>
     {::options parse_block_html="false" /}
