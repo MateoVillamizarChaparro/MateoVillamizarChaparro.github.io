@@ -15,7 +15,7 @@ Añade el pdf del Teaching Statement
 ### Universidad Católica del Uruguay:
   - As instructor of record
     - Quantitative Research Methods (undergraduate)
-    - Data Visualization and Storytelling (undergradaute)
+    - Data Visualization and Storytelling (undergraduate)
     - Institutions and Public Policy (graduate and undergraduate)
     - Latin American Political Processes (undergraduate)
     
