@@ -8,6 +8,13 @@ Click on the arrows to access the abstracts.
 
 ### Peer Reviewed Journal Articles
   - {::options parse_block_html="true" /}
+    <details><summary markdown="span"> [4] The Market in Smugglers: Survey Experimental Evidence on the Choice of Coyotes in Guatemala.**with** [Diego Romero](https://diego-romero.com/) and [Erik Wibbels](https://web.sas.upenn.edu/ewibbels/) [[**Pre-analysis plan**](https://osf.io/j3knm)] *Conditionally Accepted at Comparative Political Studies* </summary>
+    <p> <sub>
+    **Abstract:** How does group consciousness affect the preferences for district selection? In this paper, we investigate if individuals that have a stronger group consciousness measured as historical discrimination, existences of linked fate, and inequalities in the treatment of different racial groups affect district choice. Using a multi-method design, using semi-structured interviews and a conjoint experiment in a sample of Afro-Colombians, we find evidence that group consciousness affects the preferences for ethnic districts over territorial ones. Our results also show that membership to ethnic organization or individuals episodes of discrimination do not change preferences for ethnic districts. These findings indicate that individuals with high levels of group consciousness tend to worry more about mechanisms ad institutions that can enhance the group's political representation.    
+    </sub> </p>
+    </details>
+    {::options parse_block_html="false" /}
+  - {::options parse_block_html="true" /}
     <details><summary markdown="span"> [3] Group Consciousness and District Selection: Evidence from the Colombian Congress' Black Ethnic District **with** Cristina Echeverri-Pineda. (2025) *Political Behavior* [[Link to paper](https://link.springer.com/article/10.1007/s11109-024-09972-4?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240925&utm_content=10.1007%2Fs11109-024-09972-4)] </summary>
     <p> <sub>
     **Abstract:** How does group consciousness affect the preferences for district selection? In this paper, we investigate if individuals that have a stronger group consciousness measured as historical discrimination, existences of linked fate, and inequalities in the treatment of different racial groups affect district choice. Using a multi-method design, using semi-structured interviews and a conjoint experiment in a sample of Afro-Colombians, we find evidence that group consciousness affects the preferences for ethnic districts over territorial ones. Our results also show that membership to ethnic organization or individuals episodes of discrimination do not change preferences for ethnic districts. These findings indicate that individuals with high levels of group consciousness tend to worry more about mechanisms ad institutions that can enhance the group's political representation.
@@ -72,13 +79,6 @@ Click on the arrows to access the abstracts.
     </details>
     {::options parse_block_html="false" /}
 
-  - {::options parse_block_html="true" /}
-    <details><summary markdown="span"> The Market in Smugglers: Survey Experimental Evidence on the Choice of Coyotes in Guatemala.**with** [Diego Romero](https://diego-romero.com/) and [Erik Wibbels](https://web.sas.upenn.edu/ewibbels/) [[**Pre-analysis plan**](https://osf.io/j3knm)] </summary>
-    <p> <sub>
-    **Abstract:** How does group consciousness affect the preferences for district selection? In this paper, we investigate if individuals that have a stronger group consciousness measured as historical discrimination, existences of linked fate, and inequalities in the treatment of different racial groups affect district choice. Using a multi-method design, using semi-structured interviews and a conjoint experiment in a sample of Afro-Colombians, we find evidence that group consciousness affects the preferences for ethnic districts over territorial ones. Our results also show that membership to ethnic organization or individuals episodes of discrimination do not change preferences for ethnic districts. These findings indicate that individuals with high levels of group consciousness tend to worry more about mechanisms ad institutions that can enhance the group's political representation.    
-    </sub> </p>
-    </details>
-    {::options parse_block_html="false" /}
 
 ### Working Papers
   - {::options parse_block_html="true" /}
@@ -128,6 +128,30 @@ Click on the arrows to access the abstracts.
     </sub> </p>
     </details>
     {::options parse_block_html="false" /}
+  
+  - {::options parse_block_html="true" /}
+    <details><summary markdown="span"> The Supply Side of Exclusionary Rhetoric: The political use of xenophobic rhetoric during elections in Colombia </summary>
+    <p> <sub>
+    **Abstract:** The increase in international migration in developing countries has led to a rise in xenophobic and anti-immigrant attitudes across the public. Do local politicians respond to these demands and use xenophobic rhetoric for electoral gain? This paper investigates the conditions under which politicians strategically employ xenophobic rhetoric during campaigns for local elections. Using Twitter data from mayoral candidates in Colombia’s largest cities in assistance with a dictionary, I find that the use of xenophobic rhetoric is low, despite increasing the virality of the tweets. Estimates from a regression discontinuity also show that xenophobic rhetoric does not increase the chances of winning. There is some suggestive evidence that in places with more labor competition between migrants and natives, politicians use more xenophobic slurs.
+    </sub> </p>
+    </details>
+    {::options parse_block_html="false" /}
+
+  - {::options parse_block_html="true" /}
+    <details><summary markdown="span"> Beyond Goods for Votes: The Multi-Dimensional Nature of Clientelistic Offers in Guatemala </summary>
+    <p> <sub>
+    **Abstract:** How do the characteristics of clientelistic handouts shape voter preferences, and how do these preferences operate in low-institutionalization political environments? Existing research often conceptualizes vote-buying as a simple exchange of goods for electoral support. This paper argues instead that clientelistic offers are multi-dimensional and that voters respond not merely to the presence of material benefits, but to the specific attributes embedded in them. These include the type of good provided, its monetary value, the timing of delivery, and the nature of the relationship between politicians and voters. To assess how these dimensions structure preferences, I field an original conjoint experiment in Guatemala, a setting characterized by weak party institutionalization and pervasive clientelistic practices. Respondents chose between pairs of electoral offers that varied systematically across these four attributes. By disaggregating the components of clientelistic exchanges, the paper moves beyond simplified goods-for-votes models and provides a more precise account of how voters evaluate clientelistic offers in weakly institutionalized democracies.
+    </sub> </p>
+    </details>
+    {::options parse_block_html="false" /}
+
+  - {::options parse_block_html="true" /}
+    <details><summary markdown="span"> Beyond Clientelism? Progressive Politics, Party System Change, and Ethnic Group Linkages in Latin America </summary>
+    <p> <sub>
+    **Abstract:** After the 1980s, Latin America experienced a second inclusionary turn characterized by increased recognition of previously marginalized societal actors, including ethnic minorities. While existing scholarship has examined where and how inclusion occurs, two critical questions remain underexplored: which parties incorporate newly recognized ethnic groups into their electoral coalitions, and what types of partisan linkages—clientelistic or programmatic—do parties employ when engaging these constituencies? This paper outlines a research design to address these questions using expert survey data from the 2024 wave of the Democratic Accountability and Linkages Project (DALP), supplemented by the Chapel Hill Expert Survey for Latin America (CHES-LA). I argue that party organizational characteristics, ideological positioning, experiential factors, and resource access shape both incorporation decisions and linkage strategies. Using country-fixed effects models of Latin American parties, I test hypotheses about the effects of party organization, centralization, incumbency, ideology, tolerance, and financing structures on inclusion and linkage type. This research contributes to understanding how parties adapt their electoral strategies during inclusionary periods and whether incorporation transforms clientelistic practices into programmatic representation.
+    </sub> </p>
+    </details>
+    {::options parse_block_html="false" /}
 
  - New Interests, New Measures, Old Problems: An Analysis of the Latent Dimension(s) of Democracy **with** [Serkant Adiguzel](http://serkantadiguzel.com/), [Scott de Marchi](http://sdemarchi.weebly.com/), [Jeremy Springman](https://jrspringman.github.io/) and [Erik Wibbels](https://web.sas.upenn.edu/ewibbels/). *Working Paper*
 
@@ -135,7 +159,6 @@ Click on the arrows to access the abstracts.
 
 ### Work in Progress
   - Elections and Democratic Backsliding **with** [Erik Wibbels](https://web.sas.upenn.edu/ewibbels/)
-  - Xenophobic Rhetoric in Colombian elections
   - Dual Citizenship, Political Participation and Exile in the Southern Cone
   - Types of Clientelist Offers: Evidence from Guatemala
   - Televised Inequality: The Impact of Avenida Brasil on Perceptions of Inequality **with** [Yuhan Zheng](https://sites.google.com/view/yuhanzheng/about)
