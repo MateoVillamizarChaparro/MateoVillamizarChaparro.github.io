@@ -203,6 +203,7 @@ Click on the arrows to access the abstracts.
 
 
 ### Publications in other media
+  - Villamizar-Chaparro, Mateo (2026) Dos pasaportes, un solo voto ([Blog: Razones y Personas](https://www.razonesypersonas.com/2026/10/dos-pasaportes-un-solo-voto.html))
   - Villamizar-Chaparro, Mateo (2025) El ADN migratorio de Uruguay ([Blog: Razones y Personas](https://www.razonesypersonas.com/2025/08/el-adn-migratorio-de-uruguay.html))
   - Villamizar-Chaparro, Mateo and Saavedra, Melissa (2024) Ni fu ni fa: xenofobia, integracionismo, y la pugna por alcaldías y gobernaciones en 2023 ([Informe del Barómetro de la Xenofobia](https://drive.google.com/file/d/1d049ZNrvZBO3870AEzA43kATugAjl6Cl/view))
   - Echeverri-Pineda, Cristina and Villamizar-Chaparro (2023, Jan. 1) District Selection and Racial Identity: Voting Preferences in the Colombian Congress’ Black District. ([Items](https://items.ssrc.org/democracy-papers/democratic-anxieties-in-the-americas/district-selection-and-racial-identity/))
